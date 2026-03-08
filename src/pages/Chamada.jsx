@@ -19,7 +19,7 @@ function isChamadaAberta() {
   const dia = now.getDay() // 0 = Sunday
   if (dia !== 0) return false
   const hora = now.getHours() + now.getMinutes() / 60
-  return hora >= 21 && hora < 24
+  return hora >= 20 && hora < 24
 }
 
 function getProximaAula() {
@@ -110,7 +110,7 @@ export default function Chamada() {
 
           <div className={styles.horarioInfo}>
             <span className={styles.horarioDot} data-aberta={aberta} />
-            <span>Domingo, 21:00 - 00:00</span>
+            <span>Domingo, 20:00 - 00:00</span>
           </div>
 
           <AnimatePresence mode="wait">
@@ -160,7 +160,7 @@ export default function Chamada() {
                         id="idAluno"
                         type="text"
                         value={idAluno}
-                        onChange={e => setIdAluno(e.target.value)}
+                        onChange={e => setIdAluno(e.target.value.replace(/\D/g, ''))}
                         placeholder="Sua matrícula ou ID"
                         required
                         disabled={status === 'sending'}

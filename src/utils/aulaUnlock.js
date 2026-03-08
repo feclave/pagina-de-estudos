@@ -15,11 +15,10 @@ function getNowBRT() {
 }
 
 export function isAulaUnlocked(aulaId) {
-  return true // TEMP: teste — remover depois
-  // if (aulaId <= 1) return true
-  // const now = getNowBRT()
-  // const unlockDate = new Date(AULA_2_UNLOCK.getTime() + (aulaId - 2) * 7 * 24 * 3600000)
-  // return now >= unlockDate
+  if (aulaId <= 1) return true
+  const now = getNowBRT()
+  const unlockDate = new Date(AULA_2_UNLOCK.getTime() + (aulaId - 2) * 7 * 24 * 3600000)
+  return now >= unlockDate
 }
 
 export function getUnlockDate(aulaId) {
@@ -33,8 +32,7 @@ export function getUnlockDate(aulaId) {
 }
 
 export function isDinamicaUnlocked(aulaId) {
-  return true // TEMP: teste — remover depois
-  // const now = getNowBRT()
-  // const unlockDate = new Date(DINAMICA_1_UNLOCK.getTime() + (aulaId - 1) * 7 * 24 * 3600000)
-  // return now >= unlockDate
+  const now = getNowBRT()
+  const unlockDate = new Date(DINAMICA_1_UNLOCK.getTime() + (aulaId - 1) * 7 * 24 * 3600000)
+  return now >= unlockDate
 }
