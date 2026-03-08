@@ -1,0 +1,28 @@
+.footer {
+  text-align: center;
+  padding: 3rem 2rem 2rem;
+  border-top: 1px solid rgba(107, 76, 110, 0.15);
+  position: relative;
+  z-index: 2;
+}
+
+.divider {
+  margin-bottom: 1.5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.text {
+  font-family: var(--font-heading);
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+.sub {
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-top: 0.5rem;
+}

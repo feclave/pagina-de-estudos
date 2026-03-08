@@ -1,0 +1,171 @@
+.wrapper {
+  position: fixed;
+  top: 5rem;
+  right: 1.5rem;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.75rem;
+}
+
+/* Floating action button */
+.fab {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1px solid rgba(245, 222, 179, 0.2);
+  background: rgba(20, 15, 30, 0.85);
+  backdrop-filter: blur(12px);
+  color: var(--text-secondary);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+  transition: border-color 0.3s, box-shadow 0.3s, color 0.3s;
+}
+
+.fab:hover {
+  border-color: rgba(245, 222, 179, 0.4);
+  color: var(--accent-glow);
+}
+
+.fabActive {
+  color: var(--accent-glow);
+  border-color: rgba(245, 222, 179, 0.35);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4), 0 0 18px rgba(245, 222, 179, 0.12);
+  animation: pulse 3s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4), 0 0 18px rgba(245, 222, 179, 0.12); }
+  50% { box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4), 0 0 28px rgba(245, 222, 179, 0.2); }
+}
+
+/* Panel */
+.panel {
+  background: rgba(20, 15, 30, 0.92);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(245, 222, 179, 0.15);
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  width: 220px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5), 0 0 20px rgba(245, 222, 179, 0.05);
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.trackName {
+  font-family: var(--font-heading);
+  font-size: 0.8rem;
+  color: var(--accent-glow);
+  text-align: center;
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 0;
+}
+
+/* Controls row */
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.controlBtn {
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  cursor: pointer;
+  padding: 0.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: color 0.2s, background 0.2s;
+}
+
+.controlBtn:hover {
+  color: var(--accent-glow);
+  background: rgba(245, 222, 179, 0.08);
+}
+
+.playBtn {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid rgba(245, 222, 179, 0.3);
+  background: rgba(245, 222, 179, 0.06);
+  color: var(--accent-glow);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s, border-color 0.2s, box-shadow 0.2s;
+}
+
+.playBtn:hover {
+  background: rgba(245, 222, 179, 0.12);
+  border-color: rgba(245, 222, 179, 0.5);
+  box-shadow: 0 0 12px rgba(245, 222, 179, 0.15);
+}
+
+/* Volume row */
+.volumeRow {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.volumeSlider {
+  flex: 1;
+  -webkit-appearance: none;
+  appearance: none;
+  height: 3px;
+  background: rgba(245, 222, 179, 0.15);
+  border-radius: 2px;
+  outline: none;
+  cursor: pointer;
+}
+
+.volumeSlider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--accent-glow);
+  border: none;
+  cursor: pointer;
+}
+
+.volumeSlider::-moz-range-thumb {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--accent-glow);
+  border: none;
+  cursor: pointer;
+}
+
+@media (max-width: 480px) {
+  .wrapper {
+    bottom: 1rem;
+    right: 1rem;
+  }
+
+  .fab {
+    width: 44px;
+    height: 44px;
+  }
+
+  .panel {
+    width: 200px;
+    padding: 0.85rem 1rem;
+  }
+}

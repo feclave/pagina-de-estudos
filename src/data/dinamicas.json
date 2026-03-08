@@ -1,0 +1,172 @@
+{
+  "1": {
+    "titulo": "Arcanos e Intuição",
+    "subtitulo": "Duas histórias, uma verdade — a turma confia na intuição.",
+    "preparacao": [
+      "Cada aluno sorteia uma carta dos 22 Arcanos Maiores",
+      "O professor distribui uma breve referência visual de cada arcano para consulta"
+    ],
+    "regras": [
+      "Cada aluno vai à frente, mostra seu arcano e conta duas histórias sobre si mesmo: uma verdadeira e uma falsa",
+      "A turma discute brevemente e decide em consenso qual história é a verdadeira",
+      "Se a turma acertar, o aluno ganha 1 ponto",
+      "Se a turma errar, o aluno ganha 2 pontos (soube enganar)",
+      "Ao final, os 3 alunos com mais pontos são os 'Mestres da Ilusão'"
+    ],
+    "porque_funciona": "Conecta o arcano sorteado à vida pessoal do aluno e treina a leitura intuitiva do grupo — perceber microexpressões, hesitações e detalhes que denunciam a mentira. É rápido, divertido e todo mundo participa."
+  },
+  "2": {
+    "titulo": "O Espelho do Ternário",
+    "subtitulo": "Você se conhece — mas os outros te conhecem também?",
+    "preparacao": [
+      "O professor prepara 3 a 5 dilemas curtos relacionados ao tema da aula",
+      "Cada aluno acessa o Mural da Sala no celular"
+    ],
+    "regras": [
+      "O professor lê um dilema em voz alta",
+      "Cada aluno escreve no Mural, em uma frase, o que faria — de forma anônima",
+      "O professor aprova todas as respostas de uma vez e elas aparecem no mural",
+      "Cada aluno lê uma resposta aleatória do mural e tenta adivinhar de quem é, justificando por quê",
+      "Se acertar o autor, ambos ganham 2 pontos",
+      "Se errar, quem escreveu ganha 1 ponto (soube se esconder)"
+    ],
+    "porque_funciona": "Conecta com o ternário: a dualidade entre quem você acha que é e como os outros te percebem, buscando a síntese. O mural digital torna tudo rápido e anônimo, sem papéis."
+  },
+  "3": {
+    "titulo": "O Círculo de Confiança",
+    "subtitulo": "Encontre o mentiroso antes que ele cruze o círculo.",
+    "preparacao": [
+      "Definir a ordem dos alunos que irão à frente",
+      "Para cada rodada, 3 voluntários se preparam com uma afirmação sobre si"
+    ],
+    "regras": [
+      "Um aluno vai à frente como 'guardião'",
+      "3 voluntários dizem uma afirmação sobre si mesmos — 2 são verdadeiras e 1 é falsa",
+      "O guardião deve apontar quem está mentindo, usando apenas sua intuição",
+      "Se acertar: o guardião ganha 2 pontos",
+      "Se errar: quem mentiu ganha 2 pontos",
+      "Repetir com novos guardiões até todos participarem"
+    ],
+    "porque_funciona": "Treina a percepção intuitiva — fundamento da proteção espiritual nas tradições ocultas. Identificar a mentira é identificar a ameaça. Rápido e direto, cada rodada dura menos de 2 minutos."
+  },
+  "4": {
+    "titulo": "A Encruzilhada Rápida",
+    "subtitulo": "Três temas, decisões instantâneas — defenda sua posição.",
+    "preparacao": [
+      "O professor seleciona 3 temas polêmicos que surgiram nas aulas anteriores",
+      "Definir os dois lados da sala: CONCORDO e DISCORDO"
+    ],
+    "regras": [
+      "O professor apresenta uma afirmação provocativa sobre um tema",
+      "Os alunos têm 5 segundos para se posicionar: lado CONCORDO ou lado DISCORDO",
+      "2 voluntários de cada lado têm 1 minuto para defender sua posição",
+      "A turma vota em quem argumentou melhor — o lado vencedor ganha 2 pontos por pessoa",
+      "Repetir para os 3 temas",
+      "Melhor argumentador geral (votação final): 3 pontos extras"
+    ],
+    "porque_funciona": "A aula de tema livre precisa de estrutura para não virar conversa solta. A decisão em 5 segundos força posicionamento intuitivo, e o debate curto treina argumentação rápida."
+  },
+  "5": {
+    "titulo": "O Traidor Silencioso",
+    "subtitulo": "Há traidores entre vocês — confie na sua intuição.",
+    "preparacao": [
+      "O professor sorteia secretamente 3 'traidores' entre os alunos (via papéis dobrados: maioria diz LEAL, 3 dizem TRAIDOR)",
+      "Ninguém sabe quem são os traidores"
+    ],
+    "regras": [
+      "Cada aluno se apresenta com uma frase sobre lealdade ou confiança",
+      "Após todas as apresentações, cada aluno aponta em segredo (no papel) quem acha que é traidor",
+      "O professor revela os traidores",
+      "Cada traidor não descoberto ganha 3 pontos",
+      "Cada aluno que acertou um traidor ganha 1 ponto por acerto",
+      "Traidor mais votado (descoberto mais rápido): 0 pontos"
+    ],
+    "porque_funciona": "Recria a paranoia real das sociedades secretas históricas. A decisão é puramente intuitiva — não há evidência concreta, apenas percepção. Rápido de executar e gera discussão animada após a revelação."
+  },
+  "6": {
+    "titulo": "A Roda Relâmpago",
+    "subtitulo": "Aceite ou recuse — você tem 5 segundos.",
+    "preparacao": [
+      "O professor prepara 10 ofertas planetárias (ex: 'Marte te oferece coragem para enfrentar seu maior medo AGORA — mas você perde a memória do que acontecer. Aceita?')",
+      "Definir os gestos: EM PÉ = aceito, SENTADO = recuso"
+    ],
+    "regras": [
+      "O professor lê uma oferta planetária",
+      "Os alunos têm 5 segundos para decidir: ficar em pé (aceitar) ou sentar (recusar)",
+      "O professor revela a consequência oculta da oferta",
+      "Quem tomou a melhor decisão (aceitou oferta boa ou recusou oferta ruim) ganha 2 pontos",
+      "Quem tomou a pior decisão ganha 0 pontos",
+      "Após 10 rodadas, os 3 com mais pontos são os 'Eleitos da Roda'"
+    ],
+    "porque_funciona": "A pressão dos 5 segundos elimina a racionalização e força decisões instintivas — revelando como cada pessoa reage sob pressão. Cada rodada dura menos de 1 minuto."
+  },
+  "7": {
+    "titulo": "Ritual em Um Minuto",
+    "subtitulo": "Objetos limitados, criatividade ilimitada.",
+    "preparacao": [
+      "Formar 5 grupos de 5 alunos",
+      "Preparar cartões com INTENÇÃO (ex: proteção, cura, clareza) e LIMITAÇÃO (ex: sem falar, só com as mãos, de olhos fechados)"
+    ],
+    "regras": [
+      "Cada grupo sorteia 1 cartão de INTENÇÃO e 1 de LIMITAÇÃO",
+      "Os grupos têm 5 minutos para montar um ritual de no máximo 1 minuto",
+      "Cada grupo executa seu ritual para a turma",
+      "A turma vota no mais impactante — grupo vencedor ganha 3 pontos por membro",
+      "Segundo e terceiro lugar: 2 e 1 pontos respectivamente",
+      "Todos que participam ganham 1 ponto base"
+    ],
+    "porque_funciona": "As limitações forçam criatividade sob pressão — exatamente como rituais reais funcionam. A apresentação cria a experiência de 'oficiar' uma cerimônia. Formato curto evita atrasos."
+  },
+  "8": {
+    "titulo": "O Pacto Instantâneo",
+    "subtitulo": "O poder tem preço — você aceita antes que a oferta expire?",
+    "preparacao": [
+      "O professor prepara 8 pactos demoníacos com poder e preço (ex: 'Você ganha o dom de convencer qualquer pessoa, mas nunca mais poderá dizer a verdade sobre seus sentimentos')",
+      "Definir os gestos: MÃO LEVANTADA = aceito, BRAÇOS CRUZADOS = recuso"
+    ],
+    "regras": [
+      "O professor lê o pacto: o poder oferecido e o preço cobrado",
+      "Os alunos têm 5 segundos para aceitar ou recusar",
+      "O professor revela a 'letra miúda' — uma consequência oculta que muda tudo",
+      "Quem recusou pacto ruim ganha 2 pontos. Quem aceitou pacto ruim ganha 0",
+      "A cada 3 rodadas, um pacto é genuinamente bom — quem aceitou ganha 3 pontos, quem recusou ganha 0",
+      "Após todas as rodadas, os 3 com mais pontos são os 'Incorruptíveis'"
+    ],
+    "porque_funciona": "Recria o dilema central da Goetia: o poder tem preço, e a pressa leva a pactos ruins. Os 5 segundos forçam decisões viscerais. A 'letra miúda' ensina que nem tudo é o que parece."
+  },
+  "9": {
+    "titulo": "Veredito Relâmpago",
+    "subtitulo": "Culpado ou inocente — justifique em uma frase.",
+    "preparacao": [
+      "O professor escolhe 3 figuras ou práticas ocultistas para serem 'julgadas' (ex: Aleister Crowley, necromancia, sociedades secretas)",
+      "Cada aluno recebe papel e caneta (ou usa o Mural da Sala)"
+    ],
+    "regras": [
+      "O professor apresenta brevemente a figura/prática em julgamento",
+      "Cada aluno escreve CULPADO ou INOCENTE + uma frase justificando",
+      "O professor lê algumas respostas em voz alta (sem revelar autores)",
+      "A turma vota na melhor justificativa de cada lado",
+      "Melhor justificativa de cada lado: 3 pontos",
+      "Segundo e terceiro melhores: 2 e 1 pontos respectivamente"
+    ],
+    "porque_funciona": "Obriga os alunos a articularem tudo que aprenderam no curso de forma concisa. O formato relâmpago mantém a energia alta e o anonimato encoraja honestidade."
+  },
+  "10": {
+    "titulo": "O Legado e o Pódio",
+    "subtitulo": "O que você leva daqui — e quem brilhou mais nesta jornada.",
+    "preparacao": [
+      "O professor prepara o ranking final com todas as pontuações acumuladas",
+      "Preparar 3 prêmios simbólicos para o pódio (sigilos, talismãs ou certificados temáticos)"
+    ],
+    "regras": [
+      "Cada aluno diz em uma frase o aprendizado mais marcante que leva do curso",
+      "A turma vota nas 3 frases mais inspiradoras",
+      "Frase mais votada: 5 pontos. Segunda: 3 pontos. Terceira: 2 pontos",
+      "O professor revela o ranking final acumulado de todas as dinâmicas",
+      "3° lugar: título de 'Adepto' + prêmio simbólico",
+      "2° lugar: título de 'Mago' + prêmio simbólico",
+      "1° lugar: título de 'Hierofante' + prêmio simbólico"
+    ],
+    "porque_funciona": "A frase única força a síntese pessoal — o que realmente ficou? O pódio dá fechamento competitivo e celebra quem mais se engajou. Os títulos ocultistas tornam o reconhecimento temático e memorável."
+  }
+}

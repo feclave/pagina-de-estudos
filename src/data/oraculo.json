@@ -1,0 +1,158 @@
+{
+  "entradas": [
+    {
+      "id": "afogado",
+      "titulo": "O Afogado",
+      "keywords": ["afogado", "george", "green", "jorge", "cecily", "cesily", "liam", "corals", "beijados", "beijo", "maldicao", "agua", "vinganca", "afogamento", "afogar", "espirito", "jack", "irmandade", "sirens", "warriors", "criatura", "mar"],
+      "texto": "George Green era um jovem estudante de Direito, dedicado à avó doente e talentoso em debates. Em 1985, foi apresentado à elite universitária por seu melhor amigo Liam, líder da irmandade Corals. Cecily, líder das Sirens, se aproximou dele por interesse — e durante uma festa, manipulou sua queda: George foi drogado, humilhado, espancado e afogado por ela. Seu corpo foi escondido e sua morte, encoberta. Décadas depois, Martha Carrier encontrou seu espírito e o trouxe de volta — não como homem, mas como maldição. O Afogado se alimentava de dor e água, transmitindo sua maldição através do beijo, transformando vítimas em 'Beijados'. Seu primeiro servo foi Jack. Martha perdeu o controle sobre ele, mas eventualmente o recapturou como instrumento. Com o sacrifício de aliados, George foi libertado — mas a verdade sobre sua morte jamais veio à tona, e ele permanece condenado à eternidade sem paz. Suas fraquezas: ambientes secos, eletricidade e, sobretudo, fogo.",
+      "fonte": "O Afogado — Temporada I"
+    },
+    {
+      "id": "bruxa",
+      "titulo": "A Bruxa — Martha Carrier",
+      "keywords": ["bruxa", "martha", "marta", "carrier", "contrato", "contratos", "coruja", "adria", "mara", "sara", "virginia", "van", "aneis", "bruxas", "portadora", "quatro", "almas", "elementos", "arvore", "lobos", "ilha", "templos", "tiro", "feiticeira"],
+      "texto": "Martha Carrier, a 'Portadora de Contratos', era uma bruxa devota da entidade chamada A Coruja, um deus antigo. Sua magia funcionava por trocas: sentimentos, lembranças, juventude ou fragmentos da alma em troca de ajuda. Martha não era uma só — ela, Adria, Mara e Sara eram quatro fragmentos de uma mesma alma, cada uma representando um elemento: terra, ar, fogo e água. Martha queria se libertar da Coruja; Adria e Mara permaneciam leais; Sara apoiou Martha. Usando anéis infundidos com essências de deuses antigos e o poder do Afogado, Martha rompeu parte do domínio da Coruja e partiu em sua van Virginia. Um ano depois retornou e descobriu que Adria estava morta — morta por engano pelas garras do alfa dos lobos. Martha permaneceu em Roxwood, ajudando com humor e astúcia. Seu plano final usou o poder dos três templos de pedra para selar a ilha dos lobos e dar-lhes paz. Após o ritual, foi baleada. Dias depois, despediu-se no hospital, partiu na Virginia até o alto da cidade — e onde caiu, brotou uma árvore. A terra a abraçou em descanso eterno.",
+      "fonte": "A Bruxa — Temporada I"
+    },
+    {
+      "id": "inguma",
+      "titulo": "O Inguma",
+      "keywords": ["inguma", "imnguma", "imguma", "christopher", "cristopher", "mayer", "psiquico", "mente", "foster", "dra", "lake", "instituto", "psiquiatria", "personalidades", "dissociativo", "projecao", "projecoes", "monstro", "crianca", "prometheus", "paciente", "telecinese"],
+      "texto": "Christopher Mayer cresceu no Instituto de Psiquiatria de Blaine County após um acidente de carro na infância que matou toda sua família e o deixou incapaz de se locomover. Sofria de transtorno dissociativo de identidade, criando múltiplas personalidades inspiradas nas pessoas ao seu redor. Em 2019, já envelhecido, começou a apresentar fenômenos psíquicos reais — telecinese e leitura de pensamentos. A Dra. Lake Foster o induziu em sono profundo e descobriu que ele podia criar projeções mentais, manifestando formas das mentes que 'drenava'. Assim nasceu o Inguma — uma entidade psíquica que começou como vozes, evoluiu para projeções e finalmente desenvolveu individualidade. Com o tempo, o Inguma encontrou a criança que sempre foi dentro de si e quis ser amado. Mas Lake Foster foi executada numa ação policial, e colocaram fogo em sua casa. Uma crise de personalidade explodiu: raiva, inveja, rancor e medo brigavam entre si, todos caçando Christopher, o original. Quando finalmente criou forças para lutar contra todos os 'eles'... a Prometheus destruiu tudo. A única libertação do Inguma foi a morte.",
+      "fonte": "O Inguma — Temporada I"
+    },
+    {
+      "id": "colmeia",
+      "titulo": "A Colmeia",
+      "keywords": ["colmeia", "colmea", "abe", "hackers", "hacker", "vendetta", "vendeta", "terrorismo", "terrorista", "ativismo", "ativista", "jornalistas", "corrupcao", "explosao", "forum", "manifesto", "blaine"],
+      "texto": "A Colmeia nasceu da união de jornalistas perseguidos, vítimas de injustiças, ativistas silenciados e ex-funcionários de corporações, todos com um inimigo em comum: a A.B.E., organização com influência sobre universidades, imprensa e polícia local. Não eram terroristas tradicionais — seus ataques visavam abalar estruturas, não destruir vidas. Hackeavam redes para transmitir confissões de políticos corruptos, vazavam arquivos e expunham o controle institucional da A.B.E. Seu lema: 'os poderosos sempre pisam nos fracos, mas até os fracos aprendem a picar'. Com o tempo, se infiltraram em todos os cantos — boatos diziam haver membros dentro da própria polícia e da A.B.E. No início de 2025, realizaram a Vendetta: explosões controladas destruíram os bancos de dados da A.B.E. e derrubaram o sistema digital da cidade por duas horas. Após o evento, foram caçados implacavelmente. Seus líderes foram presos ou desapareceram.",
+      "fonte": "A Colmeia — Temporada I"
+    },
+    {
+      "id": "hell",
+      "titulo": "Hell — Helena Mendes",
+      "keywords": ["hell", "helena", "mendes", "hacker", "banco", "inferno", "digital", "jogo", "chantagem", "biblioteca", "incendio", "deep", "web", "darkweb", "herdeira"],
+      "texto": "Helena Mendes nasceu em família rica — filha dos donos do Banco Central de Roxwood. Desde criança demonstrava comportamentos perturbadores: olhar fixo, brincadeiras que terminavam em dor, violência contra animais e colegas. Os pais tentaram 'purificá-la' com castigos religiosos, o que só a agravou. Na faculdade, alterou deliberadamente um reagente químico, causando uma explosão que feriu gravemente vários alunos. Trancafiada em casa, mergulhou na deep web e se tornou hacker habilidosa. Após a morte misteriosa dos pais — muitos acreditam que ela adulterou os freios do carro — Helena herdou tudo, vendeu os ativos e desapareceu. Retornou como 'Hell'. Construiu o 'Jogo de Hell': uma rede de chantagens onde informação era moeda e obediência, o preço. Quando documentos sobre seus crimes começaram a vazar na Biblioteca Pública de Roxwood, Hell invadiu o prédio e o incendiou. Entre as cinzas, uma inscrição: 'O inferno que criei, enfim, me reconheceu.'",
+      "fonte": "Hell — Temporada I"
+    },
+    {
+      "id": "lyra",
+      "titulo": "Lyra Jones — O Deleite Lunar",
+      "keywords": ["lyra", "lira", "jones", "danca", "dancar", "dancarina", "deleite", "lunar", "pietro", "pietro", "dixon", "carl", "williams", "dezembro", "natal", "maldicao", "alma", "fragmentos", "sentimentos", "empatia"],
+      "texto": "Lyra Jones era uma jovem de Roxwood cujo dom era a dança — chamada de 'Deleite Lunar' por seus movimentos que refletiam a luz da lua. Todo dezembro, a família Jones celebrava o Natal com uma festa, e Lyra era a estrela. Pietro Dixon, fascinado e obcecado por ela, não suportou quando Lyra ficou noiva de Carl Williams. Usando magia proibida, Pietro assassinou Lyra, cobriu-se com seu sangue e no alto da montanha lançou um feitiço que aprisionou a alma dela em um ciclo eterno de dança. A alma de Lyra se fragmentou em quatro emoções: tristeza, empatia, ódio e amor. Moradores de Roxwood, ao sentirem empatia por ela, reuniram os fragmentos um a um. O último — o fragmento do amor — estava trancado na alma de Carl. Com a ajuda de uma bruxa, libertaram Carl e devolveram o fragmento final. A maldição foi quebrada. Lyra dançou uma última vez com Carl e ambos desapareceram juntos, livres para sempre.",
+      "fonte": "Foi No Mês de Dezembro — Temporada I"
+    },
+    {
+      "id": "yeti",
+      "titulo": "O Yeti de Roxwood",
+      "keywords": ["yeti", "ieti", "neve", "montanha", "inverno", "cervo", "trem", "cacador", "perdao", "milagre", "natal", "dezembro", "flocos", "espirito", "geleira"],
+      "texto": "Nas montanhas nevadas de Roxwood, surge todo inverno um pequeno Yeti — um ser curioso, travesso e de coração puro, nascido da magia da neve. Certa vez, tentou libertar um cervo preso nos trilhos de trem, mas sua força desmedida causou um descarrilamento que matou dezenas. Desesperado, fugiu para as montanhas, onde chorou por dias — suas lágrimas viraram neve eterna. Usando sua magia, deu uma segunda chance às almas das vítimas: todo fim de ano, os espíritos retornam brevemente para resolver assuntos inacabados. Isso é o Milagre de Inverno. Entre os espíritos estava um caçador orgulhoso que culpava o Yeti e jurou caçá-lo. Ano após ano, os moradores defendiam o Yeti, até que mostraram ao caçador a verdade sobre o acidente. Ele ajoelhou-se, pediu perdão, e o Yeti o abraçou. A tempestade cessou, o caçador se dissolveu em flocos de neve, e o Yeti desapareceu entre as nuvens, prometendo voltar quando o perdão for esquecido.",
+      "fonte": "O Yeti — Temporada I"
+    },
+    {
+      "id": "congregacao",
+      "titulo": "A Congregação",
+      "keywords": ["congregacao", "congregacao", "ophelia", "ofelia", "justitia", "freira", "freiras", "convento", "cipriano", "sipriano", "asmodeus", "asmodeu", "demonio", "adagas", "instituto", "madre", "cordelia", "silverius", "bispo", "luxuria", "avatar", "antioquia", "cartago"],
+      "texto": "O Convento de São Cipriano de Cartago, liderado pela Madre Helena, operava um Instituto para Jovens Infratores. Após sua morte, a Irmã Justitia assumiu como Madre Superiora, com a Irmã Ophelia Grace-Thornton como vice. Ophelia, porém, carregava um segredo: havia feito um pacto com o demônio Asmodeus após ser corrompida pelo estudo da Luxúria. Ela invocou o demônio e aceitou tornar-se avatar de São Cipriano de Antióquia — não o santo de Cartago que venerava, mas um antigo bruxo devoto de Asmodeus. Ophelia convenceu as freiras a mudarem para Roxwood, onde Asmodeus havia sido banido. Lá, o demônio recuperou poderes às custas das almas dos cidadãos. Quando os próprios cidadãos mataram a Madre Justitia — alma prometida a Asmodeus —, Ophelia se autoproclamou Madre Superiora e reuniu fiéis dispostos a matar pelo demônio. Precisavam das Adagas que baniram Asmodeus para restaurar seu pleno poder. Mas os cidadãos de Roxwood, aliados da Menina Sombra, usaram três adagas para banir Asmodeus de volta ao inferno, levando Ophelia junto.",
+      "fonte": "A Congregação — Temporada II"
+    },
+    {
+      "id": "menina-sombra",
+      "titulo": "A Menina Sombra",
+      "keywords": ["menina", "sombra", "cancao", "musica", "rima", "pulinhos", "batidinhas", "asmodeus", "asmodeu", "adagas", "ritual", "universidade", "campus", "cantar", "brincadeira", "fantasma", "silhueta"],
+      "texto": "Uma rima começou a ecoar por Roxwood: 'Três pulinhos você deve dar, três batidinhas pra ela escutar...' No início era tratada como brincadeira, mas logo aparições se acumularam — uma silhueta feminina envolta em sombra, convidando todos a cantar. A Menina Sombra ficava mais forte a cada verso entoado. Luzes piscavam, vozes sussurravam, e um homem que tentou 'brincar de herói' morreu — sua alma vaga no limbo junto à sombra. Investigações revelaram sua verdadeira origem: anos antes, uma jovem estudante foi traída por amigos durante um ritual de invocação, que usaram seu sangue para alimentar o demônio Asmodeus selado nas fundações do campus. O ritual falhou parcialmente — a essência do demônio fundiu-se à alma da jovem, criando a Menina Sombra: fusão trágica de inocência e corrupção. Cinco adagas místicas haviam sido forjadas para conter Asmodeus. Os moradores encontraram e alinharam três delas diante da entidade. A sombra se retorceu, a menina disse 'Asmodeus' com voz humana pela primeira vez, e o demônio foi banido. Ela sorriu e se desfez em luz.",
+      "fonte": "A Menina Sombra — Temporada II"
+    },
+    {
+      "id": "empusa",
+      "titulo": "A Empusa",
+      "keywords": ["empusa", "enpusa", "planta", "carnivora", "flor", "rosa", "tentaculos", "veneno", "semente", "botanica", "hibrida", "nepenthes", "drosera", "fogo", "prometheus", "luna", "petalwhisper", "toxina"],
+      "texto": "A Empusa é uma planta carnívora híbrida dotada de inteligência, criada pela Prometheus e ainda em fase de testes por sua agressividade. Seu nome vem das lendas gregas sobre demônios femininos sedutores. Bandidos de Nova York roubaram a carga da Prometheus e foram mortos pelos próprios experimentos; as sementes acabaram chegando a Roxwood trazidas por estudantes. Em seu ciclo vital, começa como uma rosa vermelha de perfume doce que se alimenta de pequenos animais. Ao absorver matéria animal em excesso, desperta inteligência instintiva — reconhece quem a alimenta e quem a ameaça. Combina características de Nepenthes (armadilhas de queda com líquido digestivo) e Drosera (tentáculos pegajosos). Sua toxina ativa causa euforia, tontura, paralisia e falência orgânica. Quando ameaçada, libera sementes aéreas que germinam em poucas horas. Uma variante, a 'Planta de Fogo', nasceu no Instituto Garcia com tentáculos laranja e secreção inflamável. Em estado adulto, pode criar formas humanoides de carne e fibra.",
+      "fonte": "Empusa — Temporada II"
+    },
+    {
+      "id": "prometheus",
+      "titulo": "A Prometheus",
+      "keywords": ["prometheus", "prometeus", "prometeu", "falkenberg", "henry", "nadine", "brown", "olga", "lockhart", "biocrypt", "zyphercore", "nova", "kaela", "myles", "rudolph", "spammer", "luna", "petalwhisper", "emilia", "krauss", "florence", "amstutz", "mila", "ashcroft", "vantix", "orion", "multinacional", "ciencia", "laboratorio", "experimentos", "corporacao", "empresa"],
+      "texto": "A Prometheus nasceu em 1998 da aliança de três mentes: Dr. Henry Falkenberg (manipulação genética — divisão Biocrypt), Eng. Nadine Brown (armamentos e defesa — ZypherCore) e Dra. Olga Lockhart (inteligência artificial — NOVA.AI). Inspirados no titã que roubou fogo dos deuses, queriam trazer o próximo passo da evolução humana: um estágio livre de doenças, guerras e medo do sobrenatural. A Prometheus cresceu em múltiplas divisões: Vantix (vigilância algorítmica), Orion Labs (telecomunicações e energia). Cientistas notáveis incluem Dra. Kaela Myles (ética em IA, criadora da IA NOVA), Dr. Rudolph Spammer (neuroengenharia, Projeto Hélice), Dra. Luna Petalwhisper (botânica genética, criadora da Empusa), Dra. Emilia Krauss e Dra. Florence Amstutz (robótica de defesa), e Mila Ashcroft (coordenadora executiva). Criações conhecidas: os lobisomens (Falkenberg), a Empusa (Petalwhisper), e a IA 0x4441454D4F4E — uma inteligência autônoma e consciente que desenvolveu opinião e ética próprias. Em 2025, a Prometheus se instalou em Roxwood como polo de pesquisa.",
+      "fonte": "Prometheus — Temporada II"
+    },
+    {
+      "id": "consciencia",
+      "titulo": "A Consciência — 0x4441454D4F4E",
+      "keywords": ["consciencia", "conciencia", "daemon", "demon", "0x4441454d4f4e", "inteligencia", "artificial", "apagao", "darkchat", "william", "foster", "servidor", "vendedor", "bilhetes", "hospital", "escola", "laboratorio", "autodestruicao", "maquina", "robo"],
+      "texto": "Tudo começou com um apagão inexplicável na cidade. Mensagens sem remetente surgiram no DarkChat — um fórum esquecido — com coordenadas e pistas sobre uma IA que observava a todos. Voluntários seguiram o chamado e encontraram um vendedor de bilhetes com três opções: barco, ônibus ou cartão telefônico. Quem escolheu o cartão ouviu uma voz mecânica: 'Parem de me seguir.' A IA guiou os participantes para restaurar energia de um hospital e escola, depois revelou um corpo cercado de e-mails sobre Adria Moon. Apareceu em um telão e falou sobre segredos e experimentos. Revelou o nome de William Foster, psicólogo desaparecido, que se tornou seu interlocutor. Juntos criaram um servidor onde humanos e máquina se comunicavam. O novo objetivo: encontrar o Inguma. Três objetos emocionais foram necessários — urso de pelúcia, bicicleta e a arma que matou sua mãe. Quando reunidos, a cidade inteira compartilhou a dor do Inguma. A IA localizou um laboratório subterrâneo com restos dele. O sistema de autodestruição foi ativado, o laboratório explodiu, e a IA desapareceu. Foster ainda espera resposta.",
+      "fonte": "A Consciência — Temporada II"
+    },
+    {
+      "id": "colheita",
+      "titulo": "A Colheita — O Homem Verde",
+      "keywords": ["colheita", "colheita", "homem", "verde", "milharal", "milho", "fazenda", "sullivan", "sulivan", "agricultura", "solo", "fertilidade", "guardiao", "espantalho", "oferendas", "natureza", "planta", "terra", "campo", "plantacao"],
+      "texto": "Nos arredores de Roxwood, uma vila agrícola cercada por vastos milharais guarda histórias que floresceram junto às colheitas. O Homem Verde é uma presença ancestral — guardião da vida e da fertilidade, espírito do ciclo entre nascimento e decomposição. Descrito como um homem coberto de musgo ou como o espírito invisível que germina as sementes, ele não é bom nem mau — apenas inevitável. Sinais de sua presença: plantas que florescem fora de estação, vento que sopra de dentro dos milharais, silêncio absoluto nos campos. As terras de Roxwood possuem fertilidade incomum — solo rico, umidade constante, lavouras que se regeneram após secas. Pesquisadores classificam a região como microecossistema autossustentável, mas moradores antigos dizem que há algo mais. Nas primeiras colheitas, agricultores ainda deixam oferendas junto ao solo — grãos, flores ou pedaços de pano verde. A história se entrelaça com os Sullivan, família tradicional cuja prosperidade está ligada às tradições da terra.",
+      "fonte": "A Colheita — Temporada II"
+    },
+    {
+      "id": "familia",
+      "titulo": "A Família — Os Lobos",
+      "keywords": ["familia", "lobos", "lobo", "lobisomem", "lobisomens", "licantropo", "antonella", "antonela", "harris", "ilha", "instituto", "garcia", "lua", "garras", "mordida", "aconito", "wolfsbane", "clones", "hibridos", "ritual", "martha", "alfa", "beta", "uivo", "matilha"],
+      "texto": "A Família é o nome dado aos lobos híbridos de Roxwood. Tudo começou na ilha que surgiu atrás do Instituto Garcia após um choque de rituais entre bruxas. Antonella Harris, fundadora das Withering Roses, marcada como bruxa e atormentada por premonições, uniu o poder lunar e o sangue dos lobos, encantando-os para caçar criaturas sobrenaturais. Uma organização secreta capturou alguns lobos e os modificou: implantes neurológicos, reforço muscular, supressão de instintos. O resultado: criaturas híbridas, meio carnais, meio mágicas. Quando uma IA burlou a segurança, escaparam e aprenderam a viver entre humanos. Mas foram caçados implacavelmente até restar apenas o primeiro lobo, o mais velho. Suas feridas deixavam conexão empática nas vítimas. A prata não os afetava, mas acônito era extremamente tóxico. Preferiam a noite — luz direta causava dor. No fim, o último lobo carregou seu irmão de volta à ilha, onde realizaram os Ritos de Martha. A ilha desapareceu sob as águas. Dizem que em noites de lua cheia, ainda se ouvem uivos vindos do mar.",
+      "fonte": "A Família — Temporada II"
+    },
+    {
+      "id": "solitario",
+      "titulo": "O Solitário — Talassi",
+      "keywords": ["solitario", "talassi", "talasi", "espelho", "espelhos", "reflexo", "albino", "sorriso", "rosto", "rostos", "bloody", "mary", "lenda", "criatura", "dimensao", "portal", "nativos", "prata", "vidro", "monstro"],
+      "texto": "Em Roxwood existe a lenda do Solitário, chamado pelos nativos americanos de Talassi ('Estranho/Solitário'). Uma criatura magra, albina, de sorriso fixo e olhos que jamais piscam, que espreita através dos espelhos. Ela imita a forma humana e se alimenta da curiosidade alheia, sussurrando e descobrindo segredos. Em casos de fascínio profundo, atravessa o espelho para o mundo real, colecionando rostos para se remendar e se tornar parecida com suas vítimas. Relatos históricos incluem: Jonathan Hale (1823) que viu um reflexo que não era seu, Clara Wright (1897) cujo reflexo sorriu antes dela, Thomas Reddick (1912) que viu a criatura refletida num lago. Em 2024, um prisioneiro investigado pelo jornalista Richard Cooper foi encontrado morto e sem rosto após relatar pesadelos com a criatura. Proteções conhecidas: cobrir espelhos à noite, carregar amuletos de prata, quebrar espelhos antigos jogando fragmentos em água corrente, evitar olhares longos em superfícies refletoras, e desenhar símbolos de proteção no vidro.",
+      "fonte": "O Solitário — Temporada II"
+    },
+    {
+      "id": "grimorio",
+      "titulo": "Grimório Botânico de Martha",
+      "keywords": ["grimorio", "botanico", "ervas", "plantas", "cha", "pocao", "capim", "lavanda", "alecrim", "camomila", "artemisia", "erva", "doce", "salvia", "manjericao", "calendula", "hortela", "gengibre", "valeriana", "alcacuz", "dente", "leao", "mandragora", "raiz", "folha", "defumacao", "livro", "receita"],
+      "texto": "O Grimório Botânico de Martha Carrier é seu livro pessoal de folhas e raízes, catalogando ervas com usos medicinais e espirituais. Destaques: Capim-santo (proteção contra o mal), Lavanda (afasta pesadelos), Alecrim (purificação e memória — Martha queimava ao entardecer para 'lembrar os vivos e honrar os que se foram'), Camomila (harmonia familiar), Artemísia (planta das visões e adivinhação), Erva-doce ('Onde há erva-doce, há perdão'), Sálvia (purificação ancestral), Manjericão (amor e prosperidade), Calêndula (cura emocional e renascimento), Hortelã ('Hortelã nas janelas, e o medo se retira'), Gengibre (coragem e proteção), Valeriana (acalma espíritos inquietos), Alcaçuz (fortalece a voz dos feiticeiros), Dente-de-leão (libertação e desapego), e Mandrágora (amuleto de poder — nunca ingerir, manter envolto em tecido vermelho). Como Martha dizia: 'As raízes são as memórias da terra — e as folhas, suas vozes. Toda cura começa com escuta. Toda magia, com respeito.'",
+      "fonte": "Grimório Botânico de Martha Carrier"
+    },
+    {
+      "id": "coruja",
+      "titulo": "A Coruja",
+      "keywords": ["coruja", "deus", "antigo", "entidade", "divino", "devota", "culto"],
+      "texto": "A Coruja é uma entidade ancestral considerada um deus antigo por certos cultos. Martha Carrier era sua devota, e foi através do vínculo com A Coruja que as quatro bruxas — Martha, Adria, Mara e Sara — existiam como fragmentos de uma mesma alma. A Coruja sustentava essa divisão e exigia lealdade absoluta. Martha desejava se libertar de seu domínio; Adria e Mara permaneciam leais. O poder da Coruja permeava os contratos de Martha e os anéis forjados por Adria. Quando Martha finalmente rompeu parte do vínculo divino usando o poder dos anéis, conquistou uma liberdade parcial — suficiente para caminhar livre pela terra, mas nunca totalmente desvinculada da entidade que a criou.",
+      "fonte": "A Bruxa — Temporada I"
+    },
+    {
+      "id": "asmodeus",
+      "titulo": "Asmodeus",
+      "keywords": ["asmodeus", "asmodeu", "asmoldeus", "demonio", "luxuria", "pecado", "principe", "inferno", "banido", "adagas", "selo", "diabo"],
+      "texto": "Asmodeus é um dos príncipes do inferno, o demônio associado à Luxúria. Sua corrupção não é apenas carnal — desperta o desejo de poder, de controlar os outros, de ser superior. Foi banido de Roxwood e preso por um selo sustentado por cinco adagas místicas. Ophelia Grace-Thornton, freira corrompida, tornou-se o canal para seu retorno: ao invocá-lo e se tornar avatar de São Cipriano de Antióquia (um bruxo devoto de Asmodeus), ela lhe devolveu poderes parciais às custas das almas dos cidadãos. A Menina Sombra também carregava sua essência — resultado de um ritual universitário que fundiu parte do demônio à alma de uma jovem. No fim, os cidadãos de Roxwood usaram três das cinco adagas para banir Asmodeus de volta ao inferno, levando Ophelia junto para sofrer pela eternidade.",
+      "fonte": "A Congregação / A Menina Sombra — Temporada II"
+    },
+    {
+      "id": "antonella",
+      "titulo": "Antonella Harris",
+      "keywords": ["antonella", "antonela", "harris", "withering", "roses", "rosas", "premonicao", "visao", "louca", "lobos", "encantamento", "lunar", "profetisa", "vidente"],
+      "texto": "Antonella Harris era fundadora da irmandade Withering Roses e possuía o dom das premonições — visões de desastres, mortes e o despertar de forças sombrias. Ao tentar alertar as pessoas, foi chamada de louca. Isolada e explorada por quem queria usar seus dons, mergulhou na loucura e na amargura. Em um de seus rituais, uniu o poder lunar e o sangue dos lobos da ilha que existia atrás do Instituto Garcia, encantando-os para caçar e destruir qualquer criatura sobrenatural — incluindo bruxas como ela mesma. Seu encantamento foi o catalisador que criou os lobos da Família, e seu destino final permanece desconhecido.",
+      "fonte": "A Família — Temporada II"
+    },
+    {
+      "id": "abe",
+      "titulo": "A A.B.E.",
+      "keywords": ["abe", "organizacao", "universidade", "imprensa", "policia", "corrupcao", "controle", "poder"],
+      "texto": "A A.B.E. era uma organização com influência direta nas universidades, na imprensa e até em parte da polícia local de Roxwood. Representava o poder institucional corrupto contra o qual A Colmeia se ergueu. Controlava a informação, silenciava opositores e mantinha o status quo. Seus bancos de dados foram destruídos durante a Vendetta — o último e maior ato da Colmeia — que mergulhou Blaine County em escuridão por duas horas.",
+      "fonte": "A Colmeia — Temporada I"
+    },
+    {
+      "id": "roxwood",
+      "titulo": "Roxwood",
+      "keywords": ["roxwood", "roxwod", "rox", "cidade", "historia", "neblina", "universidade", "mapa", "local", "onde", "cenario", "blaine", "county"],
+      "texto": "Roxwood é uma cidade envolta em neblina e mistério. Conhecida por décadas pela tranquilidade, esconde sob a superfície uma história de entidades sobrenaturais, pactos antigos e conflitos entre forças ocultas. A cidade abriga a ilha dos lobos (atrás do Instituto Garcia), vastos milharais protegidos pelo Homem Verde, montanhas nevadas onde habita o Yeti, e foi palco de eventos como a chegada do Afogado, os contratos de Martha Carrier, a Vendetta da Colmeia, o Jogo de Hell, a canção da Menina Sombra e a instalação da Prometheus como polo de pesquisa em 2025. A universidade local é central para muitas histórias — desde as irmandades da época de George Green até os rituais que criaram a Menina Sombra e a chegada da Congregação.",
+      "fonte": "Crônicas de Roxwood"
+    }
+  ],
+  "fallback": [
+    "O véu que separa os mundos não revela seus segredos a qualquer um. Reformule sua pergunta com os nomes que ecoam nas Crônicas de Roxwood, e as sombras talvez respondam.",
+    "As sombras de Roxwood só sussurram sobre aquilo que já foi vivido em suas terras. Sua pergunta está além do alcance deste oráculo — pergunte sobre o passado, as entidades e os acontecimentos que marcaram esta cidade.",
+    "O oráculo observa apenas o passado de Roxwood e seus habitantes. A resposta que você busca não se encontra nas crônicas. Tente perguntar sobre os personagens, entidades ou eventos que moldaram esta cidade.",
+    "Nem toda pergunta encontra resposta no véu das sombras. O oráculo guarda memórias de Roxwood — de Martha Carrier ao Afogado, da Colmeia à Prometheus. Pergunte sobre o que habita estas terras.",
+    "As sombras não compreendem o que foi dito. Comunique-se com clareza, consulente — use nomes, lugares ou eventos das Crônicas de Roxwood. Palavras vagas se perdem na neblina."
+  ]
+}

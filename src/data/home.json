@@ -1,0 +1,64 @@
+{
+  "hero": {
+    "titulo": "Antropologia do Ocultismo",
+    "subtitulo": "Uma investigação sobre as tradições mágicas, símbolos e forças que operam por trás da realidade visível",
+    "cta": "Explorar Aulas"
+  },
+  "cards": [
+    {
+      "id": 1,
+      "icone": "crystal-ball",
+      "imagem": "temperance.jpg",
+      "titulo": "Sobre a Disciplina",
+      "descricao": "Antropologia do Ocultismo é uma disciplina que investiga as tradições mágicas e esotéricas como sistemas culturais vivos — não como curiosidades históricas, mas como ferramentas de percepção. O objetivo é atravessar o véu do que parece óbvio e aprender a ler a realidade em camadas mais profundas: símbolos, padrões e forças que operam por trás do cotidiano, invisíveis para quem nunca treinou o olhar.\n\nO curso é para quem sente que existe mais do que aquilo que se vê — e quer investigar isso com seriedade, sem misticismo vazio nem ceticismo preguiçoso. Através de fontes como Éliphas Lévi, a Goetia, Agrippa, Aleister Crowley e Papus, vamos construir um repertório de conhecimento que muda a forma como você percebe o mundo, toma decisões e se relaciona com o desconhecido.",
+      "bullets": [
+        "Contextualização histórica do ocultismo ocidental",
+        "A tradição mágica como sistema filosófico e cultural",
+        "Diálogos entre ciência oculta, religião e antropologia"
+      ]
+    },
+    {
+      "id": 2,
+      "icone": "scroll",
+      "imagem": "high-priestess.jpg",
+      "titulo": "Metodologia",
+      "descricao": "Cada aula segue um cronograma ritualístico de 1h30:",
+      "cronograma": [
+        "5 min — Tolerância e avisos",
+        "5 min — Abertura ritualística",
+        "25 min — Exposição teórica",
+        "40 min — Prática vivencial",
+        "15 min — Discussão e encerramento"
+      ],
+      "bullets": [
+        "Turmas de 25 alunos · Aulas aos domingos à noite",
+        "Dinâmicas competitivas com pontuação e pódio ao final do curso",
+        "Leitura crítica de fontes primárias aliada a práticas vivenciais"
+      ]
+    },
+    {
+      "id": 3,
+      "icone": "moon",
+      "imagem": "temperance.jpg",
+      "titulo": "Ementa",
+      "descricao": "10 aulas que percorrem os pilares da tradição oculta ocidental — da vidência à alquimia, das sociedades secretas aos rituais da Alta Magia:",
+      "cronograma": [
+        "01 · Introdução ao Ocultismo, Ciência e a Arte da Vidência",
+        "02 · As Colunas do Templo e o Equilíbrio Mágico",
+        "03 · Necromancia: Mortos, Almas e o Mundo Invisível",
+        "04 · Tema Livre: Construção Coletiva",
+        "05 · Sociedades Secretas: da Maçonaria a Thelema",
+        "06 · Influências Planetárias e Astrologia Oculta",
+        "07 · Rituais da Alta Magia e Alteração de Consciência",
+        "08 · Sigilos, Ícones e a Grande Obra Alquímica",
+        "09 · Tema Livre: Construção Coletiva",
+        "10 · Síntese: O Legado Oculto e o Despertar do Olhar"
+      ],
+      "bullets": [
+        "Leitura de fontes primárias: Éliphas Lévi, Goetia, Agrippa, Aleister Crowley e Papus",
+        "Dinâmicas práticas em todas as aulas com sistema de pontuação",
+        "Pódio final com os títulos de Adepto, Mago e Hierofante"
+      ]
+    }
+  ]
+}

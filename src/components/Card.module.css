@@ -1,0 +1,200 @@
+.card {
+  background: var(--bg-card);
+  border: 1px solid rgba(107, 76, 110, 0.25);
+  border-radius: 8px;
+  padding: 2rem;
+  transition: border-color 0.4s ease, box-shadow 0.4s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--accent-purple), transparent);
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.card:hover {
+  border-color: var(--accent-glow);
+  box-shadow:
+    0 0 20px rgba(245, 222, 179, 0.08),
+    0 4px 30px rgba(0, 0, 0, 0.3);
+}
+
+.card:hover::before {
+  opacity: 1;
+}
+
+/* Home variant */
+.home {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.home .icone {
+  font-size: 2.5rem;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.home .titulo {
+  font-family: var(--font-heading);
+  font-size: 1.15rem;
+  letter-spacing: 0.05em;
+}
+
+.home .descricao {
+  font-family: var(--font-body);
+  font-size: 1.05rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+/* Aula-lista variant */
+.aula-lista {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  padding: 1.8rem 2rem;
+}
+
+.aula-lista .numero {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  color: var(--accent-warm);
+  opacity: 0.6;
+  flex-shrink: 0;
+  line-height: 1;
+  min-width: 48px;
+}
+
+.aula-lista .titulo {
+  font-family: var(--font-heading);
+  font-size: 1.1rem;
+  margin-bottom: 0.4rem;
+  letter-spacing: 0.02em;
+}
+
+.aula-lista .descricao {
+  font-family: var(--font-body);
+  font-size: 1rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+.aula-lista .topicos {
+  display: inline-block;
+  margin-top: 0.6rem;
+  font-family: var(--font-heading);
+  font-size: 0.7rem;
+  color: var(--accent-lavender);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  border: 1px solid rgba(155, 126, 168, 0.3);
+  padding: 0.2rem 0.6rem;
+  border-radius: 3px;
+}
+
+/* Bibliografia variant */
+.bibliografia {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1.2rem 1.5rem;
+}
+
+.bibliografia .titulo {
+  font-family: var(--font-heading);
+  font-size: 1rem;
+  font-style: italic;
+}
+
+.bibliografia .descricao {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+}
+
+/* General elements */
+.icone {
+  font-size: 2rem;
+}
+
+.numero {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  color: var(--accent-warm);
+}
+
+.titulo {
+  font-family: var(--font-heading);
+  font-size: 1.1rem;
+  color: var(--text-primary);
+}
+
+.descricao {
+  font-family: var(--font-body);
+  color: var(--text-secondary);
+  font-size: 1rem;
+}
+
+.topicos {
+  font-family: var(--font-heading);
+  font-size: 0.75rem;
+  color: var(--accent-lavender);
+  letter-spacing: 0.1em;
+}
+
+/* Locked state */
+.locked {
+  opacity: 0.5;
+  cursor: default !important;
+  pointer-events: none;
+}
+
+.locked:hover {
+  border-color: rgba(107, 76, 110, 0.25);
+  box-shadow: none;
+}
+
+.locked:hover::before {
+  opacity: 0;
+}
+
+.lockedContent {
+  flex: 1;
+}
+
+.lockBadge {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: var(--font-heading);
+  font-size: 0.7rem;
+  color: var(--accent-lavender);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  opacity: 0.8;
+  margin-top: 0.4rem;
+}
+
+@media (max-width: 768px) {
+  .aula-lista {
+    flex-direction: column;
+    gap: 0.8rem;
+    padding: 1.5rem;
+  }
+
+  .aula-lista .numero {
+    font-size: 1.5rem;
+  }
+}

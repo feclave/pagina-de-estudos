@@ -1,0 +1,74 @@
+.wrapper {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.canvas {
+  width: 100%;
+  height: 100%;
+}
+
+/* Moon icon */
+.moonContainer {
+  position: absolute;
+  top: 12%;
+  right: 12%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.moonGlow {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle,
+    rgba(245, 222, 179, 0.12) 0%,
+    rgba(245, 222, 179, 0.06) 30%,
+    rgba(245, 222, 179, 0.02) 55%,
+    transparent 75%
+  );
+  animation: moonBreathe 4s ease-in-out infinite;
+}
+
+.moonIcon {
+  position: relative;
+  font-size: 4.5rem;
+  color: var(--accent-glow);
+  filter:
+    drop-shadow(0 0 8px rgba(245, 222, 179, 0.5))
+    drop-shadow(0 0 20px rgba(245, 222, 179, 0.3))
+    drop-shadow(0 0 40px rgba(245, 222, 179, 0.15));
+  animation: moonBreathe 4s ease-in-out infinite;
+}
+
+@keyframes moonBreathe {
+  0%, 100% {
+    opacity: 0.8;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+}
+
+@media (max-width: 768px) {
+  .moonContainer {
+    top: 10%;
+    right: 8%;
+  }
+
+  .moonIcon {
+    font-size: 3rem;
+  }
+
+  .moonGlow {
+    width: 120px;
+    height: 120px;
+  }
+}
