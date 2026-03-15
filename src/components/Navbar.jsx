@@ -75,6 +75,14 @@ export default function Navbar() {
           </li>
           <li>
             <Link
+              to="/ranking"
+              className={location.pathname === '/ranking' ? styles.active : ''}
+            >
+              Ranking
+            </Link>
+          </li>
+          <li>
+            <Link
               to="/oraculo"
               className={location.pathname === '/oraculo' ? styles.active : ''}
             >

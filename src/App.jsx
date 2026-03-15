@@ -12,6 +12,7 @@ const AulaDetalhe = lazy(() => import('./pages/AulaDetalhe'))
 const Chamada = lazy(() => import('./pages/Chamada'))
 const Oraculo = lazy(() => import('./pages/Oraculo'))
 const Mural = lazy(() => import('./pages/Mural'))
+const Ranking = lazy(() => import('./pages/Ranking'))
 
 function PageWrapper({ children }) {
   return (
@@ -85,6 +86,14 @@ function AnimatedRoutes() {
           element={
             <PageWrapper>
               <Mural />
+            </PageWrapper>
+          }
+        />
+        <Route
+          path="/ranking"
+          element={
+            <PageWrapper>
+              <Ranking />
             </PageWrapper>
           }
         />

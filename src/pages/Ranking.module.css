@@ -1,0 +1,346 @@
+.main {
+  position: relative;
+  z-index: 2;
+  min-height: 100vh;
+  padding: 7rem 1.5rem 4rem;
+}
+
+.container {
+  max-width: 780px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 2;
+}
+
+/* Header */
+.header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.title {
+  font-family: var(--font-display);
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  color: var(--accent-glow);
+  text-shadow:
+    0 0 20px rgba(245, 222, 179, 0.35),
+    0 0 50px rgba(245, 222, 179, 0.15);
+  margin-bottom: 0.75rem;
+}
+
+.subtitle {
+  font-family: var(--font-body);
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+.header::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--accent-glow),
+    transparent
+  );
+  margin: 1.5rem auto 0;
+  opacity: 0.4;
+}
+
+/* Tabs */
+.tabs {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.tab {
+  padding: 0.6rem 1.8rem;
+  border: 1px solid rgba(107, 76, 110, 0.25);
+  border-radius: 8px;
+  background: rgba(22, 15, 25, 0.5);
+  color: var(--text-secondary);
+  font-family: var(--font-heading);
+  font-size: 0.9rem;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.tab:hover {
+  border-color: rgba(155, 126, 168, 0.4);
+  color: var(--text-primary);
+}
+
+.tabActive {
+  background: rgba(245, 222, 179, 0.08);
+  border-color: rgba(245, 222, 179, 0.3);
+  color: var(--accent-glow);
+  box-shadow: 0 0 16px rgba(245, 222, 179, 0.06);
+}
+
+/* Chart */
+.chartContainer {
+  background: rgba(22, 15, 25, 0.65);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(107, 76, 110, 0.2);
+  border-radius: 14px;
+  padding: 1.8rem 1.2rem;
+  margin-bottom: 2.5rem;
+  box-shadow:
+    0 8px 32px rgba(0, 0, 0, 0.3),
+    inset 0 1px 0 rgba(245, 222, 179, 0.05);
+  overflow-x: auto;
+}
+
+.chart {
+  display: flex;
+  align-items: flex-end;
+  gap: 0.35rem;
+  height: 260px;
+  min-width: fit-content;
+  padding: 0 0.5rem;
+}
+
+.barCol {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.4rem;
+  flex: 1;
+  min-width: 28px;
+  height: 100%;
+  justify-content: flex-end;
+}
+
+.barPosition {
+  font-family: var(--font-heading);
+  font-size: 0.6rem;
+  color: var(--text-secondary);
+  opacity: 0.4;
+}
+
+.barName {
+  font-family: var(--font-body);
+  font-size: 0.65rem;
+  color: var(--text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 48px;
+  text-align: center;
+}
+
+.barTrack {
+  width: 100%;
+  height: 65%;
+  background: rgba(107, 76, 110, 0.06);
+  border-radius: 4px 4px 0 0;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+}
+
+.barFill {
+  width: 100%;
+  background: linear-gradient(
+    0deg,
+    rgba(107, 76, 110, 0.5),
+    rgba(155, 126, 168, 0.6)
+  );
+  border-radius: 4px 4px 0 0;
+  transition: height 0.8s ease-out;
+}
+
+.barTop3 {
+  background: linear-gradient(
+    0deg,
+    rgba(245, 222, 179, 0.2),
+    rgba(245, 222, 179, 0.45)
+  );
+  box-shadow: 0 -4px 12px rgba(245, 222, 179, 0.1);
+}
+
+.barScore {
+  font-family: var(--font-heading);
+  font-size: 0.7rem;
+  color: var(--text-secondary);
+}
+
+.scoreTop3 {
+  color: var(--accent-glow);
+  text-shadow: 0 0 8px rgba(245, 222, 179, 0.2);
+}
+
+/* List */
+.listContainer {
+  background: rgba(22, 15, 25, 0.65);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(107, 76, 110, 0.2);
+  border-radius: 14px;
+  padding: 1.8rem;
+  box-shadow:
+    0 8px 32px rgba(0, 0, 0, 0.3),
+    inset 0 1px 0 rgba(245, 222, 179, 0.05);
+}
+
+.listTitle {
+  font-family: var(--font-heading);
+  font-size: 1rem;
+  color: var(--accent-glow);
+  letter-spacing: 0.08em;
+  margin-bottom: 1.2rem;
+  opacity: 0.8;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.listItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.7rem 1rem;
+  border-radius: 8px;
+  background: rgba(107, 76, 110, 0.05);
+  border: 1px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.listItem:hover {
+  background: rgba(107, 76, 110, 0.1);
+  border-color: rgba(107, 76, 110, 0.15);
+}
+
+.listItemTop3 {
+  background: rgba(245, 222, 179, 0.04);
+  border-color: rgba(245, 222, 179, 0.08);
+}
+
+.listItemTop3:hover {
+  background: rgba(245, 222, 179, 0.07);
+  border-color: rgba(245, 222, 179, 0.15);
+}
+
+.listLeft {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.listPosition {
+  font-family: var(--font-heading);
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  opacity: 0.5;
+  width: 1.6rem;
+  text-align: center;
+}
+
+.positionTop3 {
+  color: var(--accent-glow);
+  opacity: 1;
+  font-size: 0.85rem;
+  text-shadow: 0 0 6px rgba(245, 222, 179, 0.2);
+}
+
+.listName {
+  font-family: var(--font-body);
+  font-size: 1.05rem;
+  color: var(--text-primary);
+}
+
+.listScore {
+  font-family: var(--font-heading);
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  letter-spacing: 0.05em;
+}
+
+/* Loading */
+.loadingState {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding: 4rem 0;
+}
+
+.loadingState p {
+  font-family: var(--font-body);
+  font-size: 1rem;
+  color: var(--text-secondary);
+  opacity: 0.6;
+}
+
+.loadingOrb {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: radial-gradient(circle, #fff8e7, var(--accent-glow));
+  box-shadow: 0 0 20px rgba(245, 222, 179, 0.3);
+  animation: orbPulse 2s ease-in-out infinite;
+}
+
+@keyframes orbPulse {
+  0%, 100% { transform: scale(1); opacity: 0.6; }
+  50% { transform: scale(1.15); opacity: 1; }
+}
+
+/* Empty */
+.emptyState {
+  text-align: center;
+  padding: 4rem 0;
+}
+
+.emptyState p {
+  font-family: var(--font-body);
+  font-size: 1.05rem;
+  color: var(--text-secondary);
+}
+
+@media (max-width: 768px) {
+  .main {
+    padding: 5rem 1rem 3rem;
+  }
+
+  .chartContainer {
+    padding: 1.2rem 0.8rem;
+  }
+
+  .listContainer {
+    padding: 1.2rem;
+  }
+
+  .chart {
+    height: 200px;
+    gap: 0.25rem;
+  }
+
+  .barCol {
+    min-width: 22px;
+  }
+
+  .barName {
+    font-size: 0.55rem;
+    max-width: 36px;
+  }
+
+  .barScore {
+    font-size: 0.6rem;
+  }
+
+  .barPosition {
+    font-size: 0.5rem;
+  }
+}

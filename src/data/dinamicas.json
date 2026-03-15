@@ -16,21 +16,34 @@
     "porque_funciona": "Conecta o arcano sorteado à vida pessoal do aluno e treina a leitura intuitiva do grupo — perceber microexpressões, hesitações e detalhes que denunciam a mentira. É rápido, divertido e todo mundo participa."
   },
   "2": {
-    "titulo": "O Espelho do Ternário",
-    "subtitulo": "Você se conhece — mas os outros te conhecem também?",
+    "titulo": "O Espelho da Polaridade",
+    "subtitulo": "Qual energia predomina em você — e como ela molda suas decisões?",
     "preparacao": [
-      "O professor prepara 3 a 5 dilemas curtos relacionados ao tema da aula",
-      "Cada aluno acessa o Mural da Sala no celular"
+      "A dinâmica acontece na sala de espelhos (estúdio de dança)",
+      "O professor prepara os dilemas impressos ou projetados (um por dupla)",
+      "Separar a turma em duplas intencionalmente após a Fase 1"
     ],
     "regras": [
-      "O professor lê um dilema em voz alta",
-      "Cada aluno escreve no Mural, em uma frase, o que faria — de forma anônima",
-      "O professor aprova todas as respostas de uma vez e elas aparecem no mural",
-      "Cada aluno lê uma resposta aleatória do mural e tenta adivinhar de quem é, justificando por quê",
-      "Se acertar o autor, ambos ganham 2 pontos",
-      "Se errar, quem escreveu ganha 1 ponto (soube se esconder)"
+      "Fase 1 — Identificação: cada aluno se olha no espelho e reflete sobre qual energia predomina nele — masculina (agir, decidir, avançar, confrontar) ou feminina (sentir, observar, acolher, esperar). Escolhe um lado.",
+      "Fase 2 — Formação de duplas: o professor forma as duplas misturando combinações equilibradas (M+F) e combinações de mesma energia (M+M ou F+F). Os alunos não sabem a classificação do parceiro.",
+      "Fase 3 — O Dilema: cada dupla recebe uma pergunta e discute por 5-10 minutos. Devem chegar a uma resposta ou posição compartilhada.",
+      "Fase 4 — A Revelação: cada dupla revela suas energias e compartilha sua resposta. A turma discute: as duplas equilibradas chegaram a respostas diferentes das duplas de mesma energia? Energias iguais se potencializaram ou criaram um ponto cego? O equilíbrio trouxe mais clareza ou mais indecisão?"
     ],
-    "porque_funciona": "Conecta com o ternário: a dualidade entre quem você acha que é e como os outros te percebem, buscando a síntese. O mural digital torna tudo rápido e anônimo, sem papéis."
+    "dilemas": [
+      "Alguém que você ama está tomando uma decisão que você sabe que vai dar errado. O que você faz?",
+      "Um amigo está sofrendo, mas não pediu ajuda. Você intervém ou espera ele vir até você?",
+      "Você percebe que um colega está sendo injustiçado num grupo. Fala na hora ou espera o momento certo?",
+      "Você recebe uma oportunidade única, mas aceitar significa abandonar algo que construiu com esforço. Como decide?",
+      "Você sente que algo está errado numa situação, mas não tem provas. Age pelo instinto ou espera?",
+      "Alguém te oferece exatamente o que você sempre quis, mas algo no fundo te diz para recusar. O que prevalece?",
+      "Um amigo trai sua confiança, mas depois pede perdão sinceramente. Como reage?",
+      "Você descobre um segredo sobre alguém próximo. Confronta diretamente ou guarda para si?",
+      "Alguém novo entra na sua vida e quer se aproximar rápido demais. Você abre espaço ou mantém distância?",
+      "Você está numa situação que não pode controlar e o resultado depende de outras pessoas. Como lida com isso?",
+      "Tudo na sua vida está estável, mas você sente um vazio. Arrisca mudar ou agradece o que tem?",
+      "Você precisa pedir ajuda para algo que sempre resolveu sozinho. Como se sente? O que faz?"
+    ],
+    "porque_funciona": "Conecta diretamente com o tema da aula: a dualidade masculino-feminino não é abstrata — ela molda como pensamos, sentimos e decidimos. A sala de espelhos reforça a autopercepção. A revelação das combinações mostra na prática como energias iguais podem criar pontos cegos ou se potencializar, e como o equilíbrio entre opostos gera algo novo — o Ternário em ação."
   },
   "3": {
     "titulo": "O Círculo de Confiança",
