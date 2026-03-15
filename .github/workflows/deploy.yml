@@ -33,6 +33,7 @@ jobs:
         env:
           VITE_CHAMADA_SCRIPT_URL: ${{ secrets.VITE_CHAMADA_SCRIPT_URL }}
           VITE_MURAL_SCRIPT_URL: ${{ secrets.VITE_MURAL_SCRIPT_URL }}
+          VITE_RANKING_SCRIPT_URL: ${{ secrets.VITE_RANKING_SCRIPT_URL }}
 
       - uses: actions/configure-pages@v4
 
