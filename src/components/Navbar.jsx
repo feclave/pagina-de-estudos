@@ -59,6 +59,14 @@ export default function Navbar() {
           </li>
           <li>
             <Link
+              to="/ranking"
+              className={location.pathname === '/ranking' ? styles.active : ''}
+            >
+              Ranking
+            </Link>
+          </li>
+          <li>
+            <Link
               to="/chamada"
               className={location.pathname === '/chamada' ? styles.active : ''}
             >
@@ -71,14 +79,6 @@ export default function Navbar() {
               className={location.pathname === '/mural' ? styles.active : ''}
             >
               Mural
-            </Link>
-          </li>
-          <li>
-            <Link
-              to="/ranking"
-              className={location.pathname === '/ranking' ? styles.active : ''}
-            >
-              Ranking
             </Link>
           </li>
           <li>
