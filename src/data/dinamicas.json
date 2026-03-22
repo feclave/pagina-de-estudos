@@ -46,38 +46,44 @@
     "porque_funciona": "Conecta diretamente com o tema da aula: a dualidade masculino-feminino não é abstrata — ela molda como pensamos, sentimos e decidimos. A sala de espelhos reforça a autopercepção. A revelação das combinações mostra na prática como energias iguais podem criar pontos cegos ou se potencializar, e como o equilíbrio entre opostos gera algo novo — o Ternário em ação."
   },
   "3": {
-    "titulo": "O Círculo de Confiança",
-    "subtitulo": "Encontre o mentiroso antes que ele cruze o círculo.",
+    "titulo": "O Ritual Blindado",
+    "subtitulo": "Monte sua invocação e prove que sabe se proteger — ou a turma encontra a brecha.",
     "preparacao": [
-      "Definir a ordem dos alunos que irão à frente",
-      "Para cada rodada, 3 voluntários se preparam com uma afirmação sobre si"
+      "Preparar o athame (punhal ritual) para demonstração do traçado do círculo",
+      "Selecionar 5 voluntários previamente para a demonstração do pentagrama",
+      "Reservar espaço amplo para a demonstração",
+      "Dividir a turma em trios"
     ],
     "regras": [
-      "Um aluno vai à frente como 'guardião'",
-      "3 voluntários dizem uma afirmação sobre si mesmos — 2 são verdadeiras e 1 é falsa",
-      "O guardião deve apontar quem está mentindo, usando apenas sua intuição",
-      "Se acertar: o guardião ganha 2 pontos",
-      "Se errar: quem mentiu ganha 2 pontos",
-      "Repetir com novos guardiões até todos participarem"
+      "Demonstração do Círculo Mágico: o professor seleciona 5 voluntários e demonstra o ritual completo de formação do pentagrama com o athame, incluindo o juramento ('Eu prefiro que este punhal atravesse meu coração do que formar ou partir este círculo com medo'). Os alunos observam. Encerramento com 'O feito está desfeito'. Os 5 voluntários ganham 1 ponto extra",
+      "A turma se divide em trios. Cada trio discute e monta juntos um ritual: qual entidade invocariam (demônio da Goetia, espírito ancestral, força elemental — qualquer coisa vista na aula), como se protegeriam e o que buscariam com o contato",
+      "Cada trio vai à frente e apresenta seu ritual em no máximo 2 minutos: quem invocariam, como se protegeriam e o que buscariam",
+      "Após cada apresentação, os outros trios têm 30 segundos para apontar falhas na proteção: o que está faltando? Que brecha uma entidade hostil poderia explorar? Se alguém encontrar uma falha válida, quem apontou ganha 1 ponto",
+      "Se ninguém encontrar falha, o trio ganha 3 pontos cada (ritual blindado)",
+      "Se encontraram falha, o trio ganha 1 ponto cada pela participação"
     ],
-    "porque_funciona": "Treina a percepção intuitiva — fundamento da proteção espiritual nas tradições ocultas. Identificar a mentira é identificar a ameaça. Rápido e direto, cada rodada dura menos de 2 minutos."
+    "porque_funciona": "Obriga cada aluno a pensar como um praticante real: não basta saber o nome de um demônio, precisa saber como se proteger dele. O formato competitivo (turma buscando falhas) garante que todos prestem atenção em todas as apresentações. Rápido, direto e prepara para a prática real de invocação do Módulo II."
   },
   "4": {
-    "titulo": "A Encruzilhada Rápida",
-    "subtitulo": "Três temas, decisões instantâneas — defenda sua posição.",
+    "titulo": "O Círculo e a Invocação",
+    "subtitulo": "Além da teoria — uma prática real de contato com o que está além do véu.",
+    "descricao": "Com a proteção dominada no Módulo I, agora vamos além. Reuniremos os alunos em um local de conexão — um espaço onde o véu entre os planos é mais fino — e realizaremos uma prática real de invocação. O grupo decidirá coletivamente qual entidade contatar: pode ser um espírito da Goetia como Stolas (príncipe do conhecimento), Orobas (que revela passado, presente e futuro) ou Murmur (que obriga almas dos mortos a responder) — ou pode ser uma invocação mais aberta, direcionada a qualquer entidade disposta a oferecer conselho, conhecimento ou profecia.",
     "preparacao": [
-      "O professor seleciona 3 temas polêmicos que surgiram nas aulas anteriores",
-      "Definir os dois lados da sala: CONCORDO e DISCORDO"
+      "Escolha do local: um espaço onde o grupo sinta que a energia é diferente — mais densa, mais antiga, mais carregada. Pode ser uma sala fechada, um espaço ao ar livre com história, ou qualquer lugar onde o véu pareça mais fino",
+      "Preparar o athame (punhal ritual). Se o grupo optar por invocar um espírito goético específico, preparar também seu selo desenhado em pergaminho ou papel virgem",
+      "Opcional: trazer objetos pessoais de pessoas falecidas (condutores) para facilitar o contato — anéis, cartas, fotografias ou outros itens significativos",
+      "Selecionar 5 alunos voluntários para formar o pentagrama",
+      "Distribuir cadernos ou folhas para registro de impressões"
     ],
     "regras": [
-      "O professor apresenta uma afirmação provocativa sobre um tema",
-      "Os alunos têm 5 segundos para se posicionar: lado CONCORDO ou lado DISCORDO",
-      "2 voluntários de cada lado têm 1 minuto para defender sua posição",
-      "A turma vota em quem argumentou melhor — o lado vencedor ganha 2 pontos por pessoa",
-      "Repetir para os 3 temas",
-      "Melhor argumentador geral (votação final): 3 pontos extras"
+      "Formação do círculo: cinco alunos são escolhidos para formar o pentagrama. O líder da prática empunha o athame, aponta para cada um dos 5 e pronuncia o juramento: 'Eu prefiro que este punhal atravesse meu coração do que formar ou partir este círculo com medo.' Cada pessoa responde e assume sua posição na ponta do pentagrama. Os demais alunos permanecem dentro do perímetro do círculo, protegidos pela barreira",
+      "REGRA INVIOLÁVEL: os 5 devem permanecer em seu lugar até o final da prática. Se alguém sair de sua posição, o círculo se quebra e o que quer que esteja sendo contido pode ameaçar todos no local. Se o círculo se quebra, a prática é abortada imediatamente",
+      "Invocação: o selo e/ou condutores são posicionados no centro. O grupo direciona sua intenção coletiva para estabelecer contato com a entidade escolhida. A invocação será concentrada, silenciosa e receptiva. Buscamos conselho, conhecimento ou profecia",
+      "Registro: cada aluno deve registrar qualquer impressão, imagem, som, palavra ou sensação que receba durante a prática. Visões, frases que surgem na mente, mudanças de temperatura, emoções inexplicáveis — tudo é dado relevante",
+      "Encerramento: o líder declara 'O feito está desfeito', o círculo é dissolvido e todos podem se mover livremente",
+      "Após a prática, o grupo compartilha experiências. Cada relato que o grupo considerar relevante ganha 2 pontos para o autor. O relato mais impactante (votação coletiva) ganha 3 pontos extras"
     ],
-    "porque_funciona": "A aula de tema livre precisa de estrutura para não virar conversa solta. A decisão em 5 segundos força posicionamento intuitivo, e o debate curto treina argumentação rápida."
+    "porque_funciona": "O objetivo não é 'provar' que espíritos existem. O objetivo é experimentar o protocolo, sentir a energia do círculo e observar o que acontece quando um grupo treinado direciona sua intenção coletiva para atravessar o véu. O que cada um fará com essa experiência é pessoal. O círculo mágico com pentagrama de 5 pessoas é a forma mais segura de proteção coletiva."
   },
   "5": {
     "titulo": "O Traidor Silencioso",
