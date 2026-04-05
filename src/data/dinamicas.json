@@ -86,21 +86,34 @@
     "porque_funciona": "O objetivo não é 'provar' que espíritos existem. O objetivo é experimentar o protocolo, sentir a energia do círculo e observar o que acontece quando um grupo treinado direciona sua intenção coletiva para atravessar o véu. O que cada um fará com essa experiência é pessoal. O círculo mágico com pentagrama de 5 pessoas é a forma mais segura de proteção coletiva."
   },
   "5": {
-    "titulo": "O Traidor Silencioso",
-    "subtitulo": "Há traidores entre vocês — confie na sua intuição.",
+    "titulo": "O Assassino do Círculo",
+    "subtitulo": "Há um predador entre vocês — e ele já escolheu seu alvo.",
     "preparacao": [
-      "O professor sorteia secretamente 3 'traidores' entre os alunos (via papéis dobrados: maioria diz LEAL, 3 dizem TRAIDOR)",
-      "Ninguém sabe quem são os traidores"
+      "O professor distribui os cargos em segredo: 1 ASSASSINO, 1 VIDENTE, 1 GUARDIÃO, 1 MÁRTIR, o restante é OCULTISTA",
+      "Cada aluno recebe seu cargo sem revelar a ninguém",
+      "O professor explica os cargos em voz alta para toda a turma antes de começar"
+    ],
+    "cargos": [
+      "ASSASSINO — elimina 1 pessoa por rodada (comunica ao professor em segredo). Vence se conseguir eliminar o Vidente",
+      "VIDENTE — descobre o cargo de 1 pessoa por rodada (pergunta ao professor em segredo). Vence com os Ocultistas",
+      "GUARDIÃO — protege 1 pessoa por rodada (comunica ao professor em segredo). A pessoa protegida não pode ser eliminada nem ter seu cargo revelado naquela rodada. Vence com os Ocultistas",
+      "MÁRTIR — a partir da 2ª rodada, pode se sacrificar a qualquer momento para revelar publicamente o cargo de uma pessoa à sua escolha. Ao fazer isso, é eliminado do jogo. Vence com os Ocultistas",
+      "OCULTISTA — não tem poder especial. Participa dos debates e votações. Vence com os Ocultistas"
+    ],
+    "condicoes_de_vitoria": [
+      "ASSASSINO vence se eliminar o Vidente",
+      "ASSASSINO vence se restar apenas 2 pessoas vivas (ele + 1) — nesse ponto o grupo perdeu o controle",
+      "Todos os demais vencem se a turma votar corretamente no Assassino antes de qualquer uma dessas condições"
     ],
     "regras": [
-      "Cada aluno se apresenta com uma frase sobre lealdade ou confiança",
-      "Após todas as apresentações, cada aluno aponta em segredo (no papel) quem acha que é traidor",
-      "O professor revela os traidores",
-      "Cada traidor não descoberto ganha 3 pontos",
-      "Cada aluno que acertou um traidor ganha 1 ponto por acerto",
-      "Traidor mais votado (descoberto mais rápido): 0 pontos"
+      "Início de cada rodada: o professor anuncia quem foi eliminado na rodada anterior (sem revelar o cargo). A partir da 2ª rodada, o Mártir pode se sacrificar antes da votação",
+      "Debate: a turma discute livremente por alguns minutos quem pode ser o Assassino. O Vidente pode usar as informações que coletou, mas se falar com muita certeza, vira alvo",
+      "Votação: cada aluno vota em voz alta em quem acredita ser o Assassino. O mais votado é eliminado do jogo — seja ele o Assassino ou não",
+      "Se o eliminado for o Assassino: os Ocultistas vencem",
+      "Se o eliminado não for o Assassino: a rodada termina, o Assassino age novamente e o jogo continua",
+      "O Mártir pode se sacrificar a qualquer momento a partir da 2ª rodada, antes da votação, revelando publicamente o cargo de qualquer pessoa viva — inclusive pode revelar o Vidente por engano, entregando-o ao Assassino"
     ],
-    "porque_funciona": "Recria a paranoia real das sociedades secretas históricas. A decisão é puramente intuitiva — não há evidência concreta, apenas percepção. Rápido de executar e gera discussão animada após a revelação."
+    "porque_funciona": "Recria a dinâmica real das sociedades secretas, onde cada papel carrega um peso diferente. O Guardião descobre que proteção tem limite — escolher mal quem salvar é tão grave quanto não agir. O Mártir enfrenta a decisão mais cara do jogo: um sacrifício irreversível que pode virar o jogo ou destruir o grupo por engano. O voto em voz alta força comprometimento público, abre espaço para manipulação e pune a precipitação — os Ocultistas aprendem que pressão de grupo pode fazer o trabalho do Assassino por eles. E o Assassino, se jogar com paciência, não precisa matar o Vidente: basta esperar o grupo se destruir sozinho. No fim, a dinâmica é uma simulação de tomada de decisão sob pressão e incerteza — exatamente o que as grandes ordens ocultistas históricas exigiam de seus membros antes de qualquer iniciação real."
   },
   "6": {
     "titulo": "A Roda Relâmpago",
