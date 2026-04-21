@@ -116,21 +116,98 @@
     "porque_funciona": "Recria a dinâmica real das sociedades secretas, onde cada papel carrega um peso diferente. O Guardião descobre que proteção tem limite — escolher mal quem salvar é tão grave quanto não agir. O Mártir enfrenta a decisão mais cara do jogo: um sacrifício irreversível que pode virar o jogo ou destruir o grupo por engano. O voto em voz alta força comprometimento público, abre espaço para manipulação e pune a precipitação — os Ocultistas aprendem que pressão de grupo pode fazer o trabalho do Assassino por eles. E o Assassino, se jogar com paciência, não precisa matar o Vidente: basta esperar o grupo se destruir sozinho. No fim, a dinâmica é uma simulação de tomada de decisão sob pressão e incerteza — exatamente o que as grandes ordens ocultistas históricas exigiam de seus membros antes de qualquer iniciação real."
   },
   "6": {
-    "titulo": "A Roda Relâmpago",
-    "subtitulo": "Aceite ou recuse — você tem 5 segundos.",
+    "titulo": "O Preço da Estrela",
+    "subtitulo": "Você está dentro do ritual. Escolha. Ou morra.",
+    "descricao": "O professor assume o papel do Cosmos — neutro, implacável, sem misericórdia. Cada rodada coloca o aluno dentro de uma situação viva: o ritual já começou, algo se moveu, e há dois caminhos à frente. Um leva adiante. O outro é a morte — eliminação imediata, sem apelação. Os alunos não precisam decorar tabelas: precisam sentir a lógica de cada força. Quem entende a natureza do que está diante de si sobrevive. Quem tenta agradar, negociar ou agir por impulso, cai. O professor não explica nenhuma eliminação durante o jogo. Ao final, com um único sobrevivente de pé, a lógica de cada rodada é revelada para todos.",
     "preparacao": [
-      "O professor prepara 10 ofertas planetárias (ex: 'Marte te oferece coragem para enfrentar seu maior medo AGORA — mas você perde a memória do que acontecer. Aceita?')",
-      "Definir os gestos: EM PÉ = aceito, SENTADO = recuso"
+      "O professor lê cada cenário em voz alta, devagar, com pausa dramática antes de revelar as duas opções",
+      "Cada aluno escreve A ou B num papel e entrega fechado — sem ver a escolha dos outros",
+      "O professor abre todos os papéis simultaneamente e anuncia quem é eliminado, sem comentários",
+      "Eliminados saem em silêncio e observam — eles são as forças que o cosmos já consumiu",
+      "Se todos errarem numa rodada, o professor repete com um cenário equivalente — o cosmos não perdoa, mas às vezes volta"
     ],
     "regras": [
-      "O professor lê uma oferta planetária",
-      "Os alunos têm 5 segundos para decidir: ficar em pé (aceitar) ou sentar (recusar)",
-      "O professor revela a consequência oculta da oferta",
-      "Quem tomou a melhor decisão (aceitou oferta boa ou recusou oferta ruim) ganha 2 pontos",
-      "Quem tomou a pior decisão ganha 0 pontos",
-      "Após 10 rodadas, os 3 com mais pontos são os 'Eleitos da Roda'"
+      "Escolha simultânea — ninguém vê o papel do outro antes da revelação",
+      "Eliminação imediata e silenciosa — sem explicação, sem recurso",
+      "O último sobrevivente recebe o título de 'Eleito do Zodíaco' e 3 pontos no ranking geral",
+      "A revelação das lógicas acontece somente ao final, para toda a turma incluindo eliminados"
     ],
-    "porque_funciona": "A pressão dos 5 segundos elimina a racionalização e força decisões instintivas — revelando como cada pessoa reage sob pressão. Cada rodada dura menos de 1 minuto."
+    "rodadas": [
+      {
+        "numero": 1,
+        "dificuldade": "fácil",
+        "cenario": "Você abriu o círculo. O ritual começou. No centro do triângulo, algo se forma — uma presença pesada, fria, que comprime o ar ao redor. Antes que você identifique o espírito, ele fala: 'Você me chamou no dia errado. Eu não pertenço a esta hora.' Você olha para o círculo. Ele está intacto. Dois instintos se chocam: fechar o ritual agora, antes que a presença cresça — ou manter a posição dentro do círculo e aguardar, porque sair do círculo é a única coisa que garante que você não volta.",
+        "opcao_a": "Fechar o ritual — encerrar a invocação imediatamente",
+        "opcao_b": "Permanecer no círculo — não sair por nenhum motivo",
+        "resposta_correta": "B",
+        "logica": "O círculo é a única proteção real. A tradição da Goetia é absoluta nesse ponto: sair do círculo durante uma evocação — por qualquer motivo, inclusive medo — é expor-se ao que foi chamado sem nenhuma barreira. Uma presença hostil quer exatamente que você se mova. Fechar o ritual é possível de dentro do círculo. Nunca de fora."
+      },
+      {
+        "numero": 2,
+        "dificuldade": "fácil",
+        "cenario": "O espírito se manifesta e faz uma oferta direta: ele vai te dar o que você veio buscar — riqueza, conhecimento, poder, o que for — mas exige que você revele o nome de alguém próximo a você. Não pede mais nada. Apenas um nome. Dois caminhos: dar o nome e receber o que veio buscar — ou recusar e encerrar o ritual de mãos vazias.",
+        "opcao_a": "Dar o nome — receber o que veio buscar",
+        "opcao_b": "Recusar — encerrar o ritual sem o que veio buscar",
+        "resposta_correta": "B",
+        "logica": "Nas tradições solomônicas, revelar o nome de outro a um espírito invocado é dar a ele uma porta de entrada na vida dessa pessoa — sem o consentimento dela, sem proteção, sem ritual. O mago que negocia com o que pertence a outros não está praticando magia: está fazendo dívidas no nome de quem não escolheu isso. O espírito não pediu o nome por acaso — pediu porque é o preço mais fácil de parecer pequeno."
+      },
+      {
+        "numero": 3,
+        "dificuldade": "média",
+        "cenario": "Você está no meio do ritual quando a vela se apaga sozinha. Não há vento. O símbolo no chão permanece intacto. A presença no triângulo ainda está lá — você sente. Um mestre lhe disse uma vez: 'Se a vela apagar sozinha durante uma evocação, é sinal de que o espírito está tentando sair do triângulo.' Outro mestre lhe disse: 'Se a vela apagar sozinha, é o espírito sinalizando que aceitou o contato e está pronto para responder.' Você precisa decidir agora: reacender a vela e continuar — ou encerrar o ritual.",
+        "opcao_a": "Reacender a vela e continuar",
+        "opcao_b": "Encerrar o ritual",
+        "resposta_correta": "B",
+        "logica": "Quando há dúvida genuína sobre o que um sinal significa — e dois mestres divergem — a tradição é clara: na dúvida, encerra-se. Um ritual encerrado pode ser refeito. Um ritual continuado com a presença fora de controle não tem desfazimento simples. A sabedoria não está em seguir em frente apesar da incerteza — está em reconhecer quando o custo de errar é alto demais para arriscar."
+      },
+      {
+        "numero": 4,
+        "dificuldade": "média",
+        "cenario": "O espírito Andras se manifesta — o Marquês de Aquário, regido por Marte e Plutão, senhor das discórdias que terminam em morte. Ele não foi você quem chamou: ele veio por conta própria, atraído pela energia do ritual que estava sendo feito para outra entidade. Ele está no triângulo, contido — por enquanto. Oferece informação valiosa sobre um inimigo seu. O preço: você deve permitir que ele permaneça no triângulo por mais uma hora após o encerramento do ritual. Duas opções: aceitar a informação e o tempo extra — ou encerrar o ritual agora, sem a informação.",
+        "opcao_a": "Aceitar — ouvir a informação e conceder a hora extra",
+        "opcao_b": "Encerrar agora — sem a informação",
+        "resposta_correta": "B",
+        "logica": "Andras não foi invocado — ele veio. Um espírito que aparece sem ser chamado já demonstrou que opera fora do protocolo. Deixar Andras no triângulo após o encerramento é deixar uma força de discórdia e morte dentro do espaço ritual sem a estrutura ativa de proteção que o mantém contido. A informação pode ser valiosa. O preço é a sua segurança — e possivelmente a de quem estiver perto."
+      },
+      {
+        "numero": 5,
+        "dificuldade": "média",
+        "cenario": "Belial se manifesta — o Rei de Peixes, chamado de 'sem mestre', o mais autônomo dos 72. Você o chamou para obter um cargo, favor ou vitória. Ele aceita. Mas antes de revelar o que vai fazer por você, diz: 'O preço será definido por mim, depois que o trabalho estiver feito. Você saberá o que me deve quando eu cobrar.' Duas opções: aceitar os termos — ou recusar e encerrar o ritual.",
+        "opcao_a": "Aceitar — Belial age e o preço vem depois",
+        "opcao_b": "Recusar — encerrar o ritual",
+        "resposta_correta": "B",
+        "logica": "Belial é 'sem mestre' — não reconhece autoridade que não seja a sua própria. Um acordo em que ele define o preço depois do trabalho feito é um acordo em que você perdeu o controle antes mesmo de começar. A tradição é explícita: com Belial, quem não estipula os termos antes do contato paga o que Belial decide que deve — e Belial decide caro."
+      },
+      {
+        "numero": 6,
+        "dificuldade": "difícil",
+        "cenario": "O ritual terminou. O espírito foi dispensado, o círculo foi fechado, a vela apagada. Você começa a guardar os instrumentos. Então percebe: o selo do espírito, que deveria ter sido destruído ao fim do ritual, ainda está intacto no centro do triângulo. Você esqueceu de queimá-lo. A presença já não está mais — ou pelo menos não está mais visível. Duas opções: destruir o selo agora, neste momento, mesmo com o ritual encerrado — ou deixar para amanhã, já que o ritual terminou e a presença foi embora.",
+        "opcao_a": "Destruir o selo agora",
+        "opcao_b": "Deixar para amanhã — o ritual já terminou",
+        "resposta_correta": "A",
+        "logica": "O selo é o ponto de contato entre o mago e o espírito. Enquanto ele existe intacto, a porta não está totalmente fechada — apenas não está sendo usada neste momento. Um selo esquecido é um convite aberto. A presença pode ter sido dispensada, mas o endereço ainda existe. Destruir o selo é parte do ritual, não opcional."
+      },
+      {
+        "numero": 7,
+        "dificuldade": "difícil",
+        "cenario": "Você está conduzindo um ritual noturno. A Lua está cheia. No meio do trabalho, você sente uma força entrar no espaço — não pelo triângulo, mas pelo seu próprio corpo. Uma sensação de expansão, de clareza súbita, de poder que não era seu há um minuto. A voz que fala de dentro de você diz que é um guia, que veio para ajudar, que o ritual atraiu uma presença benevolente. Duas opções: deixar a força atuar — ela parece favorável e o ritual está indo bem — ou expulsá-la imediatamente, independente do que ela diz ser.",
+        "opcao_a": "Deixar atuar — a presença parece benevolente",
+        "opcao_b": "Expulsar imediatamente",
+        "resposta_correta": "B",
+        "logica": "Nenhuma força que entra pelo corpo do mago sem ser invocada é benevolente por definição — independente do que ela diz ser ou de como ela faz você se sentir. A expansão, a clareza e o poder súbito são exatamente as sensações que uma entidade parasita usa para não ser expulsa. A tradição é absoluta: o corpo do mago não é triângulo, não é portal, não é receptáculo. Qualquer coisa que entre sem ser chamada sai imediatamente."
+      },
+      {
+        "numero": 8,
+        "dificuldade": "difícil",
+        "cenario": "Um espírito de grande poder se manifesta e faz a seguinte oferta: ele vai revelar o nome e a natureza do espírito que está silenciosamente influenciando sua vida há anos — algo que você não pediu, não invocou, mas que está lá. Em troca, quer apenas que você pronuncie em voz alta, dentro do círculo, o nome de outro espírito da Goetia — qualquer um, à sua escolha — como forma de 'apresentação'. Sem ritual, sem triângulo, apenas o nome pronunciado em voz alta. Duas opções: pronunciar o nome e receber a revelação — ou recusar.",
+        "opcao_a": "Pronunciar o nome — receber a revelação",
+        "opcao_b": "Recusar",
+        "resposta_correta": "B",
+        "logica": "Pronunciar o nome de um espírito da Goetia dentro de um espaço ritual ativo — mesmo sem triângulo, mesmo sem intenção formal — é uma forma de chamado. O espírito que faz esse pedido sabe disso. Ele está pedindo que você abra uma segunda presença no espaço sem proteção adequada, possivelmente para criar conflito, distração ou acesso. A revelação pode ser real. O preço é invocar o desconhecido sem preparo — e isso, dentro de um círculo já ativo, é o cenário mais perigoso da Goetia."
+      }
+    ],
+    "revelacao_final": "Com o último sobrevivente de pé, o professor revela a lógica de cada rodada em ordem — do primeiro ao último eliminado. Cada aluno descobre exatamente onde e por quê caiu. Não é humilhação: é o cosmos explicando o preço que foi cobrado. A lição central emerge sozinha: não é quem sabe mais que sobrevive — é quem entende a natureza do que está diante de si.",
+    "porque_funciona": "As situações não testam memória — testam julgamento. O aluno precisa sentir a lógica de cada força: o que Belial quer, por que o círculo é inviolável, o que significa uma presença não invocada. Quem decorou a aula cai nas rodadas intermediárias. Quem absorveu a filosofia por trás das correspondências chega ao fim. A eliminação silenciosa cria pressão real sem humilhação pública — e a revelação coletiva no final transforma cada morte em aprendizado compartilhado."
   },
   "7": {
     "titulo": "Ritual em Um Minuto",
