@@ -1,11 +1,10 @@
-// Aula 1: always open
-// Aula 2: unlocks Wed March 11, 2026
-// Aula N (N>=2): unlocks March 11 + (N-2) * 7 days
+// 1º Semestre: Aula 1 sempre aberta; aulas 2–8 abriram semanalmente a partir de 11/03/2026
 const AULA_2_UNLOCK = new Date('2026-03-11T00:00:00-03:00')
 
+// 2º Semestre: Aula 9 abre em 25/05/2026; aulas 10–16 abrem semanalmente a partir daí
+const AULA_9_UNLOCK = new Date('2026-05-25T00:00:00-03:00')
+
 // Dynamics unlock the Monday after the class (Sunday)
-// Aula 1 class: Sun March 8 → dynamic visible Mon March 9
-// Aula N dynamic: March 9 + (N-1) * 7 days
 const DINAMICA_1_UNLOCK = new Date('2026-03-09T00:00:00-03:00')
 
 function getNowBRT() {
@@ -14,16 +13,21 @@ function getNowBRT() {
   return new Date(utc - 3 * 3600000)
 }
 
+function getUnlockTimestamp(aulaId) {
+  if (aulaId <= 1) return null
+  if (aulaId <= 8) return new Date(AULA_2_UNLOCK.getTime() + (aulaId - 2) * 7 * 24 * 3600000)
+  return new Date(AULA_9_UNLOCK.getTime() + (aulaId - 9) * 7 * 24 * 3600000)
+}
+
 export function isAulaUnlocked(aulaId) {
   if (aulaId <= 1) return true
   const now = getNowBRT()
-  const unlockDate = new Date(AULA_2_UNLOCK.getTime() + (aulaId - 2) * 7 * 24 * 3600000)
-  return now >= unlockDate
+  return now >= getUnlockTimestamp(aulaId)
 }
 
 export function getUnlockDate(aulaId) {
   if (aulaId <= 1) return null
-  const date = new Date(AULA_2_UNLOCK.getTime() + (aulaId - 2) * 7 * 24 * 3600000)
+  const date = getUnlockTimestamp(aulaId)
   const meses = [
     'janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho',
     'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'
