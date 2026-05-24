@@ -2,7 +2,7 @@
 const AULA_2_UNLOCK = new Date('2026-03-11T00:00:00-03:00')
 
 // 2º Semestre: Aula 9 abre em 25/05/2026; aulas 10–16 abrem semanalmente a partir daí
-const AULA_9_UNLOCK = new Date('2026-05-25T00:00:00-03:00')
+const AULA_9_UNLOCK = new Date('2026-05-24T00:00:00-03:00')
 
 // Dynamics unlock the Monday after the class (Sunday)
 const DINAMICA_1_UNLOCK = new Date('2026-03-09T00:00:00-03:00')
