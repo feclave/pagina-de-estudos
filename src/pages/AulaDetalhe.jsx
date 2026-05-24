@@ -188,26 +188,101 @@ export default function AulaDetalhe() {
                       <h4 className={styles.dinamicaNome}>{dinamica.titulo}</h4>
                       <p className={styles.dinamicaSub}>{dinamica.subtitulo}</p>
 
-                      <div className={styles.dinamicaBloco}>
-                        <h5 className={styles.dinamicaBlocoTitulo}>Preparação</h5>
-                        <ul className={styles.dinamicaLista}>
-                          {dinamica.preparacao.map((item, i) => (
-                            <li key={i}>
-                              <GiDiamondHard className={styles.topicBullet} size={8} />
-                              {item}
-                            </li>
-                          ))}
-                        </ul>
-                      </div>
+                      {dinamica.descricao && (
+                        <p className={styles.dinamicaDescricao}>{dinamica.descricao}</p>
+                      )}
 
-                      <div className={styles.dinamicaBloco}>
-                        <h5 className={styles.dinamicaBlocoTitulo}>Regras</h5>
-                        <ol className={styles.dinamicaRegras}>
-                          {dinamica.regras.map((regra, i) => (
-                            <li key={i}>{regra}</li>
-                          ))}
-                        </ol>
-                      </div>
+                      {dinamica.preparacao && (
+                        <div className={styles.dinamicaBloco}>
+                          <h5 className={styles.dinamicaBlocoTitulo}>Preparação</h5>
+                          <ul className={styles.dinamicaLista}>
+                            {dinamica.preparacao.map((item, i) => (
+                              <li key={i}>
+                                <GiDiamondHard className={styles.topicBullet} size={8} />
+                                {item}
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
+
+                      {dinamica.estrutura && (
+                        <div className={styles.dinamicaBloco}>
+                          <h5 className={styles.dinamicaBlocoTitulo}>Estrutura</h5>
+                          <ol className={styles.dinamicaRegras}>
+                            {dinamica.estrutura.map((item, i) => (
+                              <li key={i}>{item}</li>
+                            ))}
+                          </ol>
+                        </div>
+                      )}
+
+                      {dinamica.regras && (
+                        <div className={styles.dinamicaBloco}>
+                          <h5 className={styles.dinamicaBlocoTitulo}>Regras</h5>
+                          <ol className={styles.dinamicaRegras}>
+                            {dinamica.regras.map((regra, i) => (
+                              <li key={i}>{regra}</li>
+                            ))}
+                          </ol>
+                        </div>
+                      )}
+
+                      {dinamica.argumentos_acusacao && (
+                        <div className={styles.dinamicaBloco}>
+                          <h5 className={styles.dinamicaBlocoTitulo}>Argumentos da Acusação</h5>
+                          <ul className={styles.dinamicaLista}>
+                            {dinamica.argumentos_acusacao.map((item, i) => (
+                              <li key={i}>
+                                <GiDiamondHard className={styles.topicBullet} size={8} />
+                                {item}
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
+
+                      {dinamica.argumentos_defesa && (
+                        <div className={styles.dinamicaBloco}>
+                          <h5 className={styles.dinamicaBlocoTitulo}>Argumentos da Defesa</h5>
+                          <ul className={styles.dinamicaLista}>
+                            {dinamica.argumentos_defesa.map((item, i) => (
+                              <li key={i}>
+                                <GiDiamondHard className={styles.topicBullet} size={8} />
+                                {item}
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
+
+                      {dinamica.perguntas_do_juiz && (
+                        <div className={styles.dinamicaBloco}>
+                          <h5 className={styles.dinamicaBlocoTitulo}>Perguntas do Juiz</h5>
+                          <ul className={styles.dinamicaLista}>
+                            {dinamica.perguntas_do_juiz.map((item, i) => (
+                              <li key={i}>
+                                <GiDiamondHard className={styles.topicBullet} size={8} />
+                                {item}
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
+
+                      {dinamica.pontuacao && (
+                        <div className={styles.dinamicaBloco}>
+                          <h5 className={styles.dinamicaBlocoTitulo}>Pontuação</h5>
+                          <ul className={styles.dinamicaLista}>
+                            {dinamica.pontuacao.map((item, i) => (
+                              <li key={i}>
+                                <GiDiamondHard className={styles.topicBullet} size={8} />
+                                {item}
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
 
                       <div className={styles.dinamicaInsight}>
                         <strong>Por que funciona:</strong> {dinamica.porque_funciona}
