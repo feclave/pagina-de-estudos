@@ -1,0 +1,46 @@
+.divider {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 3rem 0 2rem;
+}
+
+.line {
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--accent-purple),
+    transparent
+  );
+  opacity: 0.4;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.3rem;
+  flex-shrink: 0;
+}
+
+.label {
+  font-family: var(--font-display);
+  font-size: clamp(0.85rem, 2vw, 1.05rem);
+  color: var(--accent-glow);
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  text-shadow:
+    0 0 12px rgba(245, 222, 179, 0.4),
+    0 0 30px rgba(245, 222, 179, 0.15);
+}
+
+.subtitle {
+  font-family: var(--font-body, serif);
+  font-size: clamp(0.65rem, 1.5vw, 0.78rem);
+  color: var(--accent-purple);
+  letter-spacing: 0.1em;
+  opacity: 0.75;
+  text-align: center;
+}

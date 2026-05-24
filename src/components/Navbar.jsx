@@ -27,7 +27,7 @@ export default function Navbar() {
     >
       <div className={styles.container}>
         <Link to="/" className={styles.logo}>
-          Antropologia do Ocultismo
+          Fundamentos e Prática do Oculto
         </Link>
 
         <button

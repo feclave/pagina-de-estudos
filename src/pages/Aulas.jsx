@@ -5,20 +5,27 @@ import { isAulaUnlocked, getUnlockDate } from '../utils/aulaUnlock'
 import GlowOrb from '../components/GlowOrb'
 import Card from '../components/Card'
 import ScrollReveal from '../components/ScrollReveal'
+import SemesterDivider from '../components/SemesterDivider'
 import styles from './Aulas.module.css'
 
 // Orb positions scattered across the sky like stars/constellations
 const orbPositions = [
-  { top: '10%', left: '58%' },   // Right sky
-  { top: '8%',  left: '4%' },    // Far left sky
-  { top: '22%', left: '88%' },   // Far right
-  { top: '28%', left: '75%' },   // Right sky mid
-  { top: '16%', left: '82%' },   // Right sky upper
-  { top: '35%', left: '82%' },   // Right mid
-  { top: '5%',  left: '8%' },    // Upper left
-  { top: '32%', left: '68%' },   // Right of tree
-  { top: '20%', left: '65%' },   // Right of crown
-  { top: '40%', left: '90%' },   // Far right low
+  { top: '10%', left: '58%' },
+  { top: '8%',  left: '4%' },
+  { top: '22%', left: '88%' },
+  { top: '28%', left: '75%' },
+  { top: '16%', left: '82%' },
+  { top: '35%', left: '82%' },
+  { top: '5%',  left: '8%' },
+  { top: '32%', left: '68%' },
+  { top: '20%', left: '65%' },
+  { top: '40%', left: '90%' },
+  { top: '12%', left: '30%' },
+  { top: '6%',  left: '45%' },
+  { top: '25%', left: '15%' },
+  { top: '18%', left: '50%' },
+  { top: '38%', left: '55%' },
+  { top: '44%', left: '70%' },
 ]
 
 export default function Aulas() {
@@ -85,19 +92,27 @@ export default function Aulas() {
         <div className={styles.aulasList}>
           {aulas.map((aula, i) => {
             const unlocked = isAulaUnlocked(aula.id)
+            const prevSemestre = i > 0 ? aulas[i - 1].semestre : null
+            const showDivider = aula.semestre !== prevSemestre
+
             return (
-              <div key={aula.id} id={`aula-${aula.id}`}>
-                <Card
-                  variant="aula-lista"
-                  numero={aula.id}
-                  titulo={aula.titulo}
-                  descricao={aula.descricao}
-                  topicosCount={aula.topicos.length}
-                  onClick={() => navigate(`/aulas/${aula.id}`)}
-                  animationDelay={i * 0.08}
-                  locked={!unlocked}
-                  unlockDate={getUnlockDate(aula.id)}
-                />
+              <div key={aula.id}>
+                {showDivider && (
+                  <SemesterDivider semestre={aula.semestre} />
+                )}
+                <div id={`aula-${aula.id}`}>
+                  <Card
+                    variant="aula-lista"
+                    numero={aula.id}
+                    titulo={aula.titulo}
+                    descricao={aula.descricao}
+                    topicosCount={aula.topicos.length}
+                    onClick={() => navigate(`/aulas/${aula.id}`)}
+                    animationDelay={i * 0.08}
+                    locked={!unlocked}
+                    unlockDate={getUnlockDate(aula.id)}
+                  />
+                </div>
               </div>
             )
           })}

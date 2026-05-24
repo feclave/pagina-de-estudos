@@ -2,6 +2,7 @@
   "aulas": [
     {
       "id": 1,
+      "semestre": 1,
       "titulo": "O Véu do Oculto: Introdução ao Ocultismo, Ciência e a Arte da Vidência",
       "descricao": "O que é o ocultismo de verdade — longe dos estereótipos? Uma ciência antiga que investiga o que está por trás da realidade visível, usando ferramentas como o Tarô para treinar a percepção e ler o mundo de outra forma.",
       "topicos": [
@@ -43,6 +44,7 @@
     },
     {
       "id": 2,
+      "semestre": 1,
       "titulo": "O Masculino e o Feminino: As Colunas do Templo e o Equilíbrio Mágico",
       "descricao": "Toda a criação nasce da tensão entre dois pólos — ativo e receptivo, solar e lunar, expansão e recolhimento. Mas essa tensão não é abstrata: ela pulsa no corpo, no desejo, na atração magnética entre os seres. A energia sexual é a expressão mais crua e poderosa dessa polaridade — e aprender a direcioná-la é o primeiro passo para ter poder real sobre a própria vida.",
       "topicos": [
@@ -101,6 +103,7 @@
     },
     {
       "id": 3,
+      "semestre": 1,
       "titulo": "Necromancia — Módulo I: Os Mortos, os Demônios e a Arte da Proteção",
       "descricao": "A morte como passagem, a luz astral, a Goetia e a tradição de São Cipriano — e principalmente: como se proteger antes de trabalhar com o que está além do véu. Círculo mágico, banimentos, esconjurações e blindagem energética.",
       "topicos": [
@@ -155,6 +158,7 @@
     },
     {
       "id": 4,
+      "semestre": 1,
       "titulo": "Necromancia — Módulo II: Demônios, Invocações e a Voz dos Mortos",
       "descricao": "Os demônios da Goetia em detalhe, as técnicas de invocação de espíritos, a tradição da reanimação, e como objetos pessoais dos mortos funcionam como condutores para a comunicação. A aula culmina com a primeira prática real de invocação em círculo mágico.",
       "topicos": [
@@ -205,6 +209,7 @@
     },
     {
       "id": 5,
+      "semestre": 1,
       "titulo": "Sociedades Secretas: Guardiãs do Oculto, da Maçonaria a Thelema",
       "descricao": "Quem guardou esse conhecimento ao longo dos séculos — e por quê? Das lojas maçônicas à Golden Dawn, de Crowley a LaVey: as organizações que moldaram o ocultismo e continuam influenciando o mundo.",
       "topicos": [
@@ -259,6 +264,7 @@
     },
     {
       "id": 6,
+      "semestre": 1,
       "titulo": "O Cosmo e as Estrelas: Astrologia Oculta e os Demônios do Zodíaco",
       "descricao": "Como os astros governam não apenas sua vida — mas os próprios espíritos da Goetia. A astrologia como sistema vivo: planetas, signos, horas e a tabela completa de regência planetária dos 72 demônios de Salomão.",
       "topicos": [
@@ -312,6 +318,7 @@
     },
     {
       "id": 7,
+      "semestre": 1,
       "titulo": "Rituais da Alta Magia: A Ciência da Alteração de Consciência",
       "descricao": "Por que os rituais funcionam — não por magia de cinema, mas por mecanismo. A ritualística como tecnologia de reprogramação interior: como estados alterados de consciência transformam quem você é.",
       "topicos": [
@@ -362,6 +369,7 @@
     },
     {
       "id": 8,
+      "semestre": 1,
       "titulo": "Magia Teúrgica: Invocação dos Anjos — Os 72 Nomes de Deus e a Angelologia Cabalística",
       "descricao": "A transição do conhecimento infernal para o divino: enquanto a Goetia invoca demônios para executar desejos, a Teurgia invoca anjos para elevação espiritual. Aprenda o sistema dos 72 nomes cabalísticos (Shemhamphorasch), os 7 arcanjos, os 7 príncipes do inferno e como cada anjo controla e neutraliza uma força infernal. Uma cosmologia completa do invisível.",
       "topicos": [
@@ -415,59 +423,373 @@
     },
     {
       "id": 9,
-      "titulo": "Tema Livre: Construção Coletiva",
-      "descricao": "Segunda aula colaborativa: com quase todo o curso percorrido, é hora de mergulhar nos temas que mais provocaram o grupo — conectando tudo que foi estudado às questões que realmente importam para cada um.",
+      "semestre": 2,
+      "titulo": "Helenismo: Religião, Magia e o Culto dos Deuses da Grécia Antiga",
+      "descricao": "O renascimento da religião helênica no mundo moderno — seus deuses olímpicos e ctônicos, práticas rituais, filosofia e o culto de Hécate, a deusa das encruzilhadas, da magia e do mundo invisível.",
       "topicos": [
-        "Tema definido em conjunto com os alunos",
-        "Aprofundamento em conexões entre aulas anteriores",
-        "Debate aberto e troca de experiências pessoais",
-        "Preparação para a síntese final"
+        "O que é o Helenismo: reconstrução religiosa e paganismo contemporâneo",
+        "Cosmologia helênica: deuses, daemons, heróis e a estrutura do cosmos",
+        "Os doze olímpicos e suas correspondências mágicas",
+        "Deuses ctônicos: Hades, Perséfone, Hécate e as forças do submundo",
+        "Hécate: deusa das encruzilhadas, magia, lua e passagens entre mundos",
+        "Culto e reciprocidade: a lógica das oferendas e da relação com os deuses",
+        "Rituais helênicos: purificação (katharmos), libações, hinos e oração",
+        "O Deipnon de Hécate: ritual mensal na lua nova",
+        "Alma e vida após a morte: Hades, Campos Elísios e reencarnação",
+        "Filosofia e religião: Platão, Pitágoras e o mistério da existência",
+        "Prática: primeira oferenda e invocação helênica"
       ],
-      "conteudo": "Neste ponto do curso, cada aluno já tem seu próprio repertório de perguntas, provocações e experiências. Já passamos pela introdução ao ocultismo, pelo equilíbrio das forças, pela necromancia, pelas sociedades secretas, pela astrologia, pelos rituais e pela alquimia. Muita coisa para digerir.\n\nEsta aula é o espaço para respirar e processar. O formato é o mesmo da primeira aula livre: cada aluno traz o que quiser — uma dúvida persistente, uma experiência pessoal que se conectou com o conteúdo, uma contradição que percebeu entre as tradições, ou simplesmente algo que quer explorar mais.\n\nAlguns temas que costumam aparecer nesta altura: como integrar o que aprendemos na rotina sem parecer 'esquisito'? Qual a ética da prática mágica — pode-se fazer um ritual para influenciar outra pessoa? O ocultismo é compatível com religiões organizadas? Como lidar com experiências estranhas que começaram a acontecer desde que comecei a estudar isso? Existe perigo real em praticar sem orientação?\n\nTodas essas perguntas são legítimas e merecem ser exploradas em grupo. Também é o momento de preparar o terreno para a última aula: o que vocês querem levar deste curso para a vida?",
+      "conteudo": "Existe uma religião que nunca morreu completamente — apenas dormiu por séculos sob o peso de outros dogmas. A religião da Grécia Antiga, com seus deuses vivos e presentes, seus rituais de reciprocidade e sua cosmologia rica em significado, ressurge hoje como um dos movimentos espirituais de maior crescimento no Ocidente. Esse retorno tem um nome: Helenismo.\n\nO Helenismo — também chamado de Hellenismos ou dodecateísmo — é a prática religiosa de quem honra os deuses da Grécia Antiga. Não é uma religião fossilizada em museus. É uma tradição viva, reconstruída com cuidado e praticada por milhares de pessoas no mundo todo. Na Grécia, o Supremo Conselho dos Gentios Helenos foi formalmente fundado em 1997. No Brasil, as comunidades helênicas crescem silenciosamente há décadas.\n\nO termo 'helênico' descreve originalmente o período histórico que começa com as conquistas de Alexandre, o Grande — quando a cultura grega se espalhou pelo mundo mediterrâneo e oriental. Mas os praticantes modernos do Helenismo se inspiram em uma janela mais ampla: da Era Minoica (c. 3.000 a.C.) até a Cristianização do Império Romano (séculos III-IV d.C.). Esse arco de mais de quatro mil anos é onde buscam fundamentos rituais, teológicos e filosóficos.\n\n— COSMOLOGIA: OS DEUSES SÃO REAIS —\n\nA primeira coisa que distingue o Helenismo de uma mera admiração pela mitologia grega é esta: para o helênico, os deuses não são figuras simbólicas ou arquétipos psicológicos. São forças reais, presentes e atuantes no cosmos.\n\nA cosmologia helênica organiza a realidade em camadas de seres. No topo, os Olímpicos — os doze grandes deuses que governam os domínios maiores da existência. Abaixo deles, uma riqueza de outros seres: outros deuses menores, titãs, ninfas, daemons e heróis. E na base, a humanidade — não como o centro do cosmos, mas como parte de uma comunidade cósmica mais vasta.\n\nO filósofo Salústio, um dos grandes sistematizadores do paganismo tardio, descreveu o cosmos como uma sociedade: 'Os deuses não são distantes e intocáveis; são forças reais na vida de seus seguidores.' E como em qualquer sociedade, vigem regras de reciprocidade. Se você vive cumprindo suas responsabilidades e contribui para o todo, você é recompensado compartilhando dos benefícios. Os deuses não recebem oferendas como pagamento ou suborno — recebem porque fazem parte da mesma comunidade, e a reciprocidade é o tecido que mantém o cosmos coeso.\n\n— OS DOZE OLÍMPICOS —\n\nO coração do panteão helênico é o Dodekatheon — os doze olímpicos. Cada um governa um domínio específico da existência e carrega correspondências mágicas precisas:\n\nZEUS — Rei dos deuses, filho dos Titãs Rhea e Cronos, a quem destituiu. Governa o trovão, a justiça, a lei e a ordem cósmica. No contexto mágico: autoridade, proteção do viajante, juramentos e julgamento.\n\nHERA — Rainha do Olimpo, esposa de Zeus. Governa o casamento, a fidelidade e as mulheres. No contexto mágico: proteção de uniões, fertilidade, pureza de intenção.\n\nPOSEIDON — Senhor dos oceanos, irmão de Zeus. Governa o mar, os terremotos e os cavalos. Temperamental e poderoso. No contexto mágico: força das profundezas, travessias, poder transformador.\n\nAPOLO — Deus da luz, da música, da cura, da poesia e da profecia. O deus do olhar distante. No contexto mágico: artes divinatórias, clareza, cura, inspiração criativa.\n\nARTEMIS — Deusa da caça, dos animais selvagens e da lua (associação posterior). Virgem e feroz, irmã gêmea de Apolo. No contexto mágico: proteção das crianças, caça, pureza, magia lunar.\n\nATENA — Deusa da sabedoria, da guerra estratégica e das artes. Patrona de Atenas. No contexto mágico: planejamento, estratégia, proteção em batalhas intelectuais.\n\nARES — Deus da guerra e da virulência marcial. No contexto mágico: coragem, proteção física, superação de inimigos.\n\nHERMES — Mensageiro dos deuses e guia das almas. Governa viagens, comércio, comunicação e criação. Hermes Psicopompo conduz os mortos ao submundo. No contexto mágico: comunicação entre mundos, magia, travessias, proteção de comerciantes e viajantes.\n\nAFRODITE — Deusa do amor, da beleza e da sexualidade. Nascida das espumas do mar. No contexto mágico: feitiços de amor, beleza, reconciliação, atração.\n\nHEFESTO — Deus do fogo e da forja. O artesão divino. No contexto mágico: criação, transformação pelo fogo, instrumentos rituais.\n\nDIONISO — Deus do vinho, do êxtase e dos Mistérios. Seu culto envolvia alteração de consciência e dissolução do ego. No contexto mágico: estados alterados, cura do luto, libertação de limitações.\n\nDEMÉTER — Deusa da agricultura e das estações. Ensinou à humanidade como cultivar a terra. Sua filha Perséfone foi raptada por Hades — quando Deméter a chora, o inverno chega. No contexto mágico: fertilidade, ciclos naturais, conexão com a terra.\n\n— DEUSES CTÔNICOS: AS FORÇAS DO SUBMUNDO —\n\nAo lado dos Olímpicos existem os deuses ctônicos — palavra grega para 'subterrâneo'. São as forças associadas à terra, aos mortos e ao submundo. No Helenismo, esses deuses não são 'do mal' — são parte essencial do cosmos, governando os mistérios da morte, transformação e renovação.\n\nHADES — Irmão de Zeus e Posêidon, senhor do mundo dos mortos. Não é um deus maligno — é um governante justo de um reino invisível. Hades raramente aparece nos mitos porque seu domínio é o que está além da vida. No contexto mágico: comunicação com os mortos, proteção dos ancestrais, rituais fúnebres.\n\nPERSÉFONE — Rainha do submundo, filha de Deméter. Sua história de rapto e retorno é o mito fundador das estações e dos Mistérios de Elêusis. Perséfone é a ponte entre os mundos: passa metade do ano no submundo, metade no Olimpo. No contexto mágico: iniciação, morte e renascimento, trabalhos com ancestrais.\n\nE então chegamos à divindade que merece atenção especial neste curso:\n\n— HÉCATE: A DEUSA DAS ENCRUZILHADAS —\n\nHécate é uma das divindades mais antigas e complexas da tradição grega — e a que mais ressoa com os temas que estudamos ao longo deste curso. Não é por acaso que seu culto ressurge com força no Helenismo contemporâneo e nas tradições Wiccanas e mágicas ocidentais.\n\nOrigem e Natureza\n\nHécate é uma titânide — pertence à geração anterior aos Olímpicos, o que lhe confere uma antiguidade e um poder que os doze do Olimpo respeitam. Hesíodo, na Teogonia, a descreve com generosidade incomum: 'A quem Zeus honrou acima de todos — concedendo-lhe parte da terra, do mar e do céu.' Ela é a única titânide que Zeus permite reter seus poderes após a derrota dos Titãs.\n\nSua origem pode ser ainda mais antiga — há evidências de que Hécate foi inicialmente adorada na Ásia Menor (Cária) e importada para o mundo grego, trazendo consigo características de deusas-mãe muito mais antigas. Isso explicaria sua natureza liminar: ela existe fora e além das categorias gregas convencionais.\n\nSeus Domínios\n\nHécate governa as passagens — todos os limiares onde um estado se torna outro:\n\nAs encruzilhadas (trivium): onde três caminhos se encontram era seu território sagrado. As encruzilhadas eram lugares onde o véu entre o mundo dos vivos e o mundo dos mortos era mais tênue. Nas noites de lua nova, as famílias gregas deixavam a Deipnon de Hécate — uma refeição ritual — nos cruzamentos, como oferenda.\n\nLua e noite: Hécate governa a lua — não a face luminosa (que pertence a Ártemis e Selene) mas a lua escura, a lua nova, o tempo de escuridão entre os ciclos. É a luz que ilumina na escuridão.\n\nMagia e feitiçaria: Hécate é a patrona suprema de toda magia. Seu nome é invocado em papiros mágicos gregos (PGM) com frequência notável. Medeia, a maior feiticeira da mitologia grega, é sua sacerdotisa. Circe, a maga da Odisseia, é sua filha ou sobrinha (dependendo da versão).\n\nO submundo: Hécate é uma das guias das almas dos mortos — presente no rapto de Perséfone, acompanhando-a no retorno ao mundo dos vivos. Ela conhece os caminhos entre os mundos.\n\nAs portas: como deusa liminar, Hécate protege as entradas de casas e cidades. Pequenas estátuas chamadas Hekataion eram colocadas em portas e encruzilhadas.\n\nSua Iconografia\n\nHécate é representada de três formas principais, que evoluíram ao longo dos séculos:\n\nHécate Monoforme: em suas representações mais antigas, é uma única figura, geralmente segurando tochas ou chaves.\n\nHécate Triforme (Triformis): a mais conhecida na magia moderna. Três corpos ligados pelas costas, olhando em três direções — passado, presente e futuro; os três mundos (céu, terra, submundo); as três fases da lua (crescente, cheia, minguante). Cada forma segura diferentes atributos: tochas, facas, serpentes, chaves, açoite.\n\nSeus animais sagrados são a serpente (transformação, sabedoria ctônica), o cão (presença nas encruzilhadas, guia de almas), a rã (liminaridade entre terra e água) e o polecat (doninha).\n\nOs Papiros Mágicos Gregos (PGM)\n\nAlguma das evidências mais concretas sobre a magia helênica vêm dos Papiros Mágicos Gregos — uma coleção de manuscritos do Egito greco-romano (séculos II a.C. – V d.C.) que preservam rituais, feitiços, invocações e instruções práticas em notável detalhe. Hécate é uma das divindades mais invocadas nesses papiros.\n\nUma das invocações mais famosas começa: 'Venha a mim, divina Hécate, das regiões sombrias, Persáfia terrível que vagueia pelas regiões dos mortos...'\n\nOs PGM mostram como magia e religião eram inseparáveis no mundo antigo — como as invocações de divindades eram parte natural de um sistema de práticas que incluía cura, adivinhação, proteção e amor.\n\n— RITUAIS HELÊNICOS: COMO HONRAR OS DEUSES —\n\nO Helenismo não tem livro sagrado único, nem dogmas universais. A prática é descentralizada e individual — cada praticante desenvolve sua relação com os deuses. Mas existem estruturas rituais fundamentais:\n\nKatharmos (Purificação): antes de qualquer ritual, o praticante se purifica. Pode ser uma lavagem das mãos, um banho, ou simplesmente aspergir água sagrada (khernips). A purificação não é moral — é energética. Você remove o miasma, a 'poluição' espiritual que se acumula no cotidiano.\n\nKhernips: água ritualmente consagrada. Normalmente faz-se jogando uma pequena quantidade de fogo (um palito aceso) na água e deixando-o apagar. O simbolismo é o de purificação pelo fogo e pela água simultaneamente.\n\nLibação (Spondé): derramar líquido em honra de um deus. Vinho para os Olímpicos, mel para os ctônicos e ancestrais, leite, azeite, água. A libação é o gesto mais fundamental do culto helênico — reconhecimento de que você está em relação com algo maior.\n\nHinos e Orações (Eukhé): os Hinos Órficos são um dos corpora mais ricos da tradição helênica — 87 hinos dedicados a diferentes divindades, cheios de epítetos e atributos que descrevem cada deus em profundidade. Recitá-los é entrar em ressonância com a divindade invocada.\n\nOferendas (Thymia): incenso, alimentos, flores, mel, objetos. Para Hécate especificamente: alho, saffron (açafrão), mel, mandrágora, laranja, mirra, ópio, ervas noturnas.\n\n— O DEIPNON DE HÉCATE —\n\nUm dos rituais mais conhecidos do culto helênico é o Deipnon — 'a refeição de Hécate'. Realizado na lua nova (o último dia do mês lunar grego), consiste em preparar uma refeição ritual e deixá-la em uma encruzilhada como oferenda.\n\nTracionalmente o Deipnon incluía: pão, ovos, peixes, alho, queijo e outros alimentos. As famílias gregas levavam essas oferendas à encruzilhada mais próxima ao anoitecer, deixavam-nas no chão e saíam sem olhar para trás. Olhar para trás seria ver Hécate e seus seguidores — os espíritos dos mortos e os cães que a acompanham.\n\nO Deipnon tinha dupla função: honrar Hécate e alimentar os fantasmas que vagavam com ela. Era também um momento de purificação da casa — 'varrendo' para fora do espaço doméstico qualquer energia residual do mês anterior.\n\nNa prática moderna, o Deipnon pode ser feito de forma adaptada: uma pequena oferenda em um cruzamento de ruas, deixada silenciosamente à noite. O gesto de caminhar sem olhar para trás é mantido — não por superstição, mas como reconhecimento do limiar que você acabou de cruzar.\n\n— ALMA E VIDA APÓS A MORTE —\n\nA cosmologia helênica oferece três visões sobre o destino da alma após a morte, que convivem na tradição:\n\nHades como destino geral: a maioria dos mortos desce ao submundo de Hades, onde existem como Sombras (skiai) de suas vidas anteriores. Não é punição — é um estado de existência mais tênue e pálido.\n\nOs Campos Elísios: os mais virtuosos ou os favorecidos pelos deuses desfrutam de uma existência beata em um lugar de beleza natural.\n\nReencarnação: especialmente popular entre os pitagóricos e platônicos. A alma bebe das águas do Esquecimento (Léthe) e renasce em uma nova vida. Alguns — como o herói Aquiles — são elevados a uma posição quase divina.\n\nO filósofo Salústio descreveu a alma como um 'condutor num carro' — a alma aprende a operar o corpo como se aprende a dirigir, navegando o caminho da vida com um veículo que às vezes coopera e às vezes resiste.\n\n— HELENISMO E MAGIA OCIDENTAL —\n\nO que torna o Helenismo particularmente relevante para este curso é a continuidade que ele representa na tradição mágica ocidental. Muitos elementos que estudamos ao longo do semestre têm raízes helênicas diretas:\n\nA Goetia e as Clavículas de Salomão absorveram elementos da magia greco-egípcia dos Papiros Mágicos Gregos. Os daemons do folclore mágico medieval têm antecedentes nos daemons gregos. Hermes Trismegisto — o autor mítico dos textos herméticos que influenciaram toda a tradição oculta ocidental — é uma fusão de Hermes grego com Thoth egípcio. A alquimia nasce no mundo greco-egípcio. A estrutura do círculo mágico tem precedentes nos rituais de evocação gregos.\n\nO Helenismo não é, portanto, um 'desvio' em relação ao que estudamos — é uma das fontes subterrâneas de onde o ocultismo ocidental bebeu por milênios.\n\nNesta aula, vamos sair da teoria e nos aproximar dos deuses: cada aluno vai identificar uma divindade que ressoa com seu momento de vida, estudar seus atributos e oferendas específicas, e preparar uma pequena primeira oferenda helênica — encontrando, no gesto simples de dar, a lógica de reciprocidade que mantém o cosmos em movimento.",
       "leitura_complementar": [
         {
-          "titulo": "A ser definido conforme o tema escolhido pelos alunos",
-          "autor": ""
+          "titulo": "Teogonia e Os Trabalhos e os Dias",
+          "autor": "Hesíodo"
+        },
+        {
+          "titulo": "Hinos Órficos (edição completa)",
+          "autor": "Tradução de Apostolos Athanassakis"
+        },
+        {
+          "titulo": "Hécate: Liminal Rites",
+          "autor": "Sorita d'Este e David Rankine"
+        },
+        {
+          "titulo": "Papiros Mágicos Gregos — Seleção",
+          "autor": "Tradução de Hans Dieter Betz"
+        },
+        {
+          "titulo": "Drawing Down the Moon",
+          "autor": "Margot Adler"
+        },
+        {
+          "titulo": "Hellenic Polytheism: Household Worship",
+          "autor": "Christos Pandion Panopoulos"
+        },
+        {
+          "titulo": "A Deusa das Encruzilhadas — Hécate na Tradição Mágica",
+          "autor": "Georgi Mishev"
         }
-      ]
+      ],
+      "conto": {
+        "titulo": "Hécate e o Rapto de Perséfone",
+        "origem": "Hino Homérico a Deméter",
+        "texto": "Quando Perséfone desapareceu, apenas dois seres ouviram seu grito: Deméter, sua mãe, e Hécate, das cavernas. Por dez dias Deméter vagou pela terra com tochas, sem comer nem beber. No décimo primeiro dia, Hécate veio ao seu encontro segurando uma tocha. 'Eu ouvi o grito', disse Hécate, 'mas não vi quem a levou. Só Hélio, que tudo vê, sabe.' Juntas elas foram ao Sol, que revelou a verdade: Hades a tinha raptado com a permissão de Zeus. Quando Perséfone retornou, Hécate foi ao seu encontro — e desde então tornou-se sua companheira e antecessora no submundo. Hécate não é apenas a deusa da magia. É a testemunha dos limiares — aquela que estava presente quando o mundo foi partido em dois, e que desde então habita a fissura entre eles."
+      }
     },
     {
       "id": 10,
-      "titulo": "Síntese: Ver o Invisível — O Legado Oculto e o Despertar do Olhar",
-      "descricao": "Tudo se conecta aqui: o que o estudo do oculto realmente muda em você, que ferramentas práticas você leva para a vida, e por que o invisível está em toda parte — esperando ser reconhecido.",
+      "semestre": 2,
+      "titulo": "Magia Ritualística: Estrutura, Intenção e o Poder do Ato Sagrado",
+      "descricao": "Todo ritual é uma tecnologia: um conjunto de ações organizadas para produzir um efeito. Aprenda a anatomia do ritual mágico — desde o design até a execução — e como construir sua própria prática ritualística consistente.",
       "topicos": [
-        "O que mudou em você ao longo do curso: antes e depois do estudo do oculto",
-        "A tradição viva: por que esses conhecimentos continuam relevantes hoje",
-        "Ferramentas para o dia a dia: intuição treinada, leitura de símbolos, proteção, rituais pessoais",
-        "O ocultismo como espelho: o que a tradição oculta revela sobre a natureza humana",
-        "O paradoxo final: o segredo que se revela sem deixar de ser oculto",
-        "Prática: construindo sua ritualística pessoal de longa duração"
+        "O que é um ritual: da neurologia ao sagrado",
+        "Anatomia do ritual mágico: abertura, trabalho e fechamento",
+        "Tempo e espaço sagrado: como criar condições para o ritual funcionar",
+        "Correspondências rituais: planetas, dias, horas, cores, ervas e metais",
+        "Ferramentas do mago: athame, cálice, pentáculo, varinha e sua consagração",
+        "Ritual de baixo e alto grau: práticas simples vs. operações complexas",
+        "A intenção como motor: formulação precisa do objetivo mágico",
+        "Sigilos e selos: como criar e ativar uma carga mágica visual",
+        "Rituais solares e lunares: trabalhando com os ciclos naturais",
+        "O corpo como instrumento ritual: respiração, postura e presença",
+        "Prática: construção e execução de um ritual pessoal completo"
       ],
-      "conteudo": "Chegamos ao final — e ao começo. Porque se este curso cumpriu seu papel, ele não termina aqui: ele muda a forma como você olha para tudo daqui em diante.\n\nVamos ser honestos sobre o que o ocultismo oferece de prático. Não é poder sobrenatural. Não é previsão infalível do futuro. O que ele oferece é algo mais raro e mais valioso: um conjunto de ferramentas para navegar a complexidade da vida com mais consciência, mais presença e mais autonomia.\n\nPrimeiro: a intuição treinada. Depois de estudar Tarô, simbolismo e correspondências, você não olha mais para o mundo da mesma forma. Começa a perceber padrões, a ler ambientes, a sentir quando algo está 'fora do lugar' antes que a mente racional consiga explicar por quê. Isso não é misticismo — é atenção refinada.\n\nSegundo: a proteção. Não no sentido de 'blindagem contra mau-olhado' (embora isso também), mas no sentido mais amplo: saber identificar o que te drena, o que te manipula, o que te tira do centro. E ter técnicas concretas para voltar ao eixo — banimentos, limpezas, rituais de recentragem.\n\nTerceiro: a transformação. A Grande Obra não é algo que acontece uma vez — é um processo contínuo. Cada crise é um nigredo. Cada clareza é um citrinitas. A diferença é que agora você tem um mapa para navegar essas fases em vez de ser arrastado por elas.\n\nQuarto: a conexão com algo maior. O estudo do oculto, para além de qualquer crença específica, revela que o ser humano sempre buscou — em todas as culturas, em todos os tempos — uma relação com o invisível. Com o que está além do óbvio, do mensurável, do controlável. Chamar isso de Deus, Universo, Inconsciente Coletivo ou Luz Astral é uma questão de vocabulário. A experiência é a mesma.\n\nO paradoxo que encerra o curso é o mesmo que o abriu: o oculto está escondido à vista de todos. Os livros estão publicados, os símbolos estão nas paredes, os rituais estão disponíveis. O véu não é externo — é interno. É a diferença entre olhar e ver.\n\nA última prática é a mais importante: cada aluno vai sair daqui com uma ritualística pessoal — simples, sustentável, adaptada à sua vida real. Não precisa ser elaborada. Pode ser cinco minutos de silêncio toda manhã. Pode ser uma leitura semanal de Tarô. Pode ser um sigilo ativado na lua nova. O que importa é que seja algo que você realmente vai fazer, consistentemente, por pelo menos três meses.\n\nPorque o segredo final do ocultismo é este: não existe magia sem prática. O conhecimento que fica na cabeça é teoria. O conhecimento que passa pelo corpo, pelo hábito e pela experiência — esse sim transforma. E transformação, no fim das contas, é o único objetivo real de tudo isso.",
+      "conteudo": "Um ritual é uma tecnologia. Como qualquer tecnologia, tem componentes, lógica interna e resultados previsíveis quando operado corretamente. O que muda entre a tecnologia material e a tecnologia ritual é o tipo de causalidade que mobiliza — não a física newtoniana dos objetos, mas o que Éliphas Lévi chamou de 'causa das causas': a vontade consciente operando sobre a luz astral.\n\nEssa é a premissa central deste módulo: magia ritualística não é superstição. É uma disciplina com estrutura, método e resultados. E como toda disciplina, pode ser ensinada, aprendida e praticada com crescente precisão.\n\n— ANATOMIA DE UM RITUAL MÁGICO —\n\nTodo ritual — independente da tradição — segue uma estrutura de três partes:\n\n1. ABERTURA (preparação e consagração do espaço)\nO ritual começa antes da 'magia principal'. A abertura cria as condições para o trabalho: purifica o espaço, estabelece o campo de proteção, invoca as forças com quem se vai trabalhar e coloca o praticante no estado mental adequado.\n\nElementos comuns: banimento (LBRP ou equivalente), katharmos (purificação helênica), consagração dos instrumentos, invocação dos quatro elementos ou dos guardiões dos pontos cardeais, declaração de intenção.\n\n2. TRABALHO (a operação mágica central)\nO coração do ritual. Pode ser uma invocação de divindade, a criação de um sigilo, um feitiço de proteção, uma comunicação com ancestrais, uma meditação profunda, ou qualquer outra operação definida.\n\nA eficácia do trabalho depende diretamente da clareza da intenção — o objetivo deve estar formulado com precisão antes de começar. Um objetivo vago produz resultados vagos.\n\n3. FECHAMENTO (liberação e retorno)\nTão importante quanto a abertura. O fechamento dispensa as forças invocadas, desfaz o espaço sagrado e devolve o praticante ao estado cotidiano. Rituais que não são fechados corretamente deixam rastros energéticos indesejados.\n\nElementos comuns: agradecimento às forças invocadas, banimento final, declaração de encerramento ('É feito', 'O feito está desfeito', 'Assim seja').\n\n— TEMPO E ESPAÇO SAGRADO —\n\nO ritual funciona melhor quando realizado no momento e lugar certos. Isso não é condição obrigatória — um praticante experiente pode operar em qualquer condição. Mas para quem está desenvolvendo a prática, o contexto potencializa o resultado.\n\nTempo ritual:\n\nLua nova: novos começos, intenções, plantio de sementes mágicas. Rituais de atração e iniciação.\nLua crescente: crescimento, aumento, ampliação. Para trabalhos que você quer que cresçam.\nLua cheia: potência máxima. Para operações de grande força, invocações poderosas, trabalhos de amor e abundância.\nLua minguante: banimento, liberação, redução. Para se livrar de algo, afastar energias, encerrar ciclos.\nLua nova (novamente): o ciclo recomeça.\n\nPlanetas e dias da semana (sistema que vimos nos primeiros semestres):\nDomingo (Sol): saúde, vitalidade, sucesso, autoridade.\nSegunda (Lua): emoção, intuição, sonhos, magia lunar.\nTerça (Marte): coragem, proteção, conflito, energia física.\nQuarta (Mercúrio): comunicação, viagens, magia, comércio.\nQuinta (Júpiter): abundância, expansão, filosofia, sabedoria.\nSexta (Vênus): amor, beleza, arte, relacionamentos.\nSábado (Saturno): trabalho, disciplina, karma, magia ctônica.\n\nHoras planetárias: cada hora do dia também tem um planeta regente, seguindo uma sequência específica. Combinar dia e hora potencializa qualquer operação.\n\nEspaço ritual:\n\nO espaço ritual não precisa ser permanente — pode ser criado temporariamente em qualquer local. O que importa é a consistência: usar sempre o mesmo espaço treina o lugar para receber trabalhos mágicos, criando o que os magistas chamam de 'carga acumulada'.\n\nElementos de um espaço ritual: altar (mesa que serve de foco), as ferramentas consagradas, elementos dos quatro naipes (terra, ar, fogo, água), velas (fogo = presença), incenso (ar = comunicação), espaço limpo e silencioso.\n\n— AS FERRAMENTAS DO MAGO —\n\nCada ferramenta ritual é um extensão da vontade do praticante — instrumentos físicos que traduzem intenção em ação simbólica. Nas tradições ocidentais, as ferramentas fundamentais correspondem aos quatro elementos:\n\nATHAME (Ar/Fogo — varia conforme tradição): A faca ritual. Não corta carne — corta véus. Direciona a vontade, traça círculos, aponta pentagramas. Como vimos na aula sobre necromancia, o athame é empunhado pelo líder do círculo ao selar o espaço sagrado. Deve ser consagrado com os quatro elementos antes do primeiro uso.\n\nCÁLICE (Água): O copo ritual. Contém libações, elixires, água consagrada. Representa o princípio feminino — a taça que recebe e transforma. Na Wicca e em muitas tradições ocidentais, a união do athame com o cálice é o símbolo da conjunção dos princípios masculino e feminino.\n\nPENTÁCULO (Terra): Um disco plano (madeira, metal, cerâmica) gravado com o pentagrama ou outros símbolos. Âncora do espaço ritual — representa a terra, a manifestação, o plano físico. Objetos a serem consagrados são colocados sobre ele.\n\nVARINHA (Fogo): Direciona energia e invoca. Enquanto o athame corta e define, a varinha atrai e convida. Na tradição da Golden Dawn, a varinha é o instrumento de invocação por excelência.\n\nConsagrar as ferramentas: antes do primeiro uso, cada ferramenta passa por uma consagração — ritual no qual você a 'introduz' aos quatro elementos (enterrar brevemente na terra, passar sobre incenso, sobre chama de vela, aspergir com água) e declara sua intenção de uso.\n\n— SIGILOS: A LINGUAGEM DO INCONSCIENTE —\n\nUm sigilo é um símbolo criado com uma intenção mágica específica. Diferente de selos de grimórios (como os da Goetia, que são símbolos de entidades pré-existentes), sigilos pessoais são criados pelo próprio praticante.\n\nO método mais comum, desenvolvido pelo mago Austin Osman Spare no início do século XX:\n\n1. Escreva sua intenção em uma frase afirmativa: 'Tenho clareza e foco em meu trabalho.'\n2. Remova as letras repetidas: T-E-N-H-O-C-L-A-R-I-D-F-M-U-B\n3. Combine as letras restantes em um desenho abstrato, sobrepondo e entrelaçando os caracteres até criar uma forma única.\n4. Carregue o sigilo: concentre-se nele em estado alterado de consciência (meditação, logo após acordar, em momento de intensidade emocional positiva) e 'dispare' a intenção nele.\n5. Esqueça: guarde o sigilo e pare de pensar no resultado. O inconsciente trabalha melhor sem a vigilância ansiosa da mente racional.\n\nSigilos podem ser gravados em velas, desenhados em papel e queimados, pintados em pedras, ou usados como foco de meditação. A chave é a carga — o momento de intensidade em que você 'empurra' sua intenção para dentro do símbolo.\n\n— CONSTRUINDO SUA PRÁTICA RITUALÍSTICA —\n\nO objetivo final deste módulo não é ensinar você a executar rituais específicos — é equipá-lo para criar e executar seus próprios rituais com consciência e eficácia.\n\nAlgumas diretrizes práticas:\n\nSimplicidade primeiro: um ritual simples feito com presença total é mais eficaz que um ritual elaborado feito mecanicamente. Comece com o mínimo — uma vela, um momento de silêncio, uma intenção clara — e adicione complexidade à medida que a prática se consolida.\n\nConsistência: rituais realizados repetidamente no mesmo horário e espaço ganham força acumulada. Uma prática diária simples (banimento matinal, gratidão noturna) cria uma 'coluna vertebral' para operações mais elaboradas.\n\nRegistro: mantenha um diário mágico. Documente cada ritual — data, hora, lua, intenção, ferramentas usadas, sensações durante e resultados posteriores. Com o tempo, você identificará seus padrões de eficácia.\n\nCorpo presente: o mago não é apenas uma mente. A respiração, a postura e o estado físico afetam profundamente a qualidade do trabalho ritual. Antes de qualquer operação, uma pequena sequência de respiração consciente (4 tempos de inspiração, 4 de retenção, 4 de expiração) centraliza o praticante no corpo.\n\nNesta aula, cada aluno vai projetar e executar seu primeiro ritual pessoal completo — escolhendo intenção, escolhendo correspondências (dia, lua, cor de vela, incenso), criando um sigilo e conduzindo a operação do começo ao fim. O ritual não precisa ter um resultado grandioso. Precisa ser feito com presença, intenção e respeito — as três qualidades que fazem a diferença entre um gesto vazio e um ato de poder.",
+      "leitura_complementar": [
+        {
+          "titulo": "Magick: Book 4",
+          "autor": "Aleister Crowley"
+        },
+        {
+          "titulo": "The Chaos Magick Primer",
+          "autor": "Phil Hine"
+        },
+        {
+          "titulo": "Liber Null & Psychonaut",
+          "autor": "Peter J. Carroll"
+        },
+        {
+          "titulo": "Dogma e Ritual da Alta Magia — Caps. IV, V e VI (Ritual)",
+          "autor": "Éliphas Lévi"
+        },
+        {
+          "titulo": "The Training and Work of an Initiate",
+          "autor": "Dion Fortune"
+        },
+        {
+          "titulo": "Earth, Air, Fire and Water: More Techniques of Natural Magic",
+          "autor": "Scott Cunningham"
+        }
+      ],
+      "conto": {
+        "titulo": "O Primeiro Ritual de Pitágoras",
+        "origem": "Tradição Pitagórica",
+        "texto": "Conta a lenda que, antes de fundar sua escola em Crotona, Pitágoras passou anos no Egito aprendendo com os sacerdotes de Mênfis. Eles lhe ensinaram que todo ato pode ser sagrado — que a diferença entre um gesto comum e um ato de poder é apenas a qualidade de atenção com que é realizado. Quando Pitágoras voltou à Grécia, seu primeiro ensinamento foi este: 'Não comeces nada sem antes elevar tua mente ao divino.' Não era superstição. Era engenharia da consciência. O ritual é o espaço onde o cotidiano é suspenso e a vontade alinhada com algo maior que ela mesma."
+      }
+    },
+    {
+      "id": 11,
+      "semestre": 2,
+      "titulo": "Voodoo e Hoodoo: Espíritos, Feitiços e Magia da Diáspora Africana",
+      "descricao": "Duas tradições irmanadas e frequentemente confundidas — o Voodoo haitiano como religião espiritual completa com seus Lwa e cerimônias de possessão, e o Hoodoo como magia folk prática do Sul dos Estados Unidos. Da rota do açúcar ao blues, do altar aos mojo bags.",
+      "topicos": [
+        "Voodoo vs. Hoodoo: distinções essenciais entre religião e magia folk",
+        "Origens do Voodoo: o Daomé, a rota do açúcar e a diáspora africana no Haiti",
+        "Os Lwa: espíritos, não deuses — a estrutura hierárquica do panteão vodou",
+        "As nações do Voodoo: Rada, Petro e Ghede — forças frias, quentes e da morte",
+        "Baron Samedi, Maman Brigitte e os Ghede: os senhores dos mortos",
+        "Cerimônias de possessão: o cavalo e o cavaleiro",
+        "Vévés: os sigilos sagrados dos Lwa",
+        "Hoodoo: raízes africanas, ameríndias e europeias no Sul dos Estados Unidos",
+        "A matéria-prima do Hoodoo: ervas, raízes, minerais, ossos e terra de cemitério",
+        "Mojo bags, war water, goofer dust e as principais receitas do rootwork",
+        "Crossroads magic: o encontro com o espírito da encruzilhada",
+        "Prática: confecção de um mojo bag com intenção específica"
+      ],
+      "conteudo": "A ser desenvolvido.",
+      "leitura_complementar": [
+        {
+          "titulo": "Divine Horsemen: The Living Gods of Haiti",
+          "autor": "Maya Deren"
+        },
+        {
+          "titulo": "Secrets of Voodoo",
+          "autor": "Milo Rigaud"
+        },
+        {
+          "titulo": "Hoodoo Herb and Root Magic",
+          "autor": "Catherine Yronwode"
+        },
+        {
+          "titulo": "Mules and Men",
+          "autor": "Zora Neale Hurston"
+        },
+        {
+          "titulo": "The New Orleans Voodoo Handbook",
+          "autor": "Kenaz Filan"
+        }
+      ],
+      "conto": {
+        "titulo": "Robert Johnson na Encruzilhada",
+        "origem": "Lenda do Blues do Mississippi",
+        "texto": "Conta a lenda que Robert Johnson era um músico medíocre. Então desapareceu por alguns meses. Quando voltou, tocava como ninguém jamais havia tocado — notas que pareciam vir de outro lugar, vozes que não eram dele saindo do violão. Os músicos mais velhos disseram: 'Ele foi à encruzilhada à meia-noite.' Lá, um homem grande e negro tomou seu violão, afinhou, tocou algumas músicas e devolveu. Esse homem era o Diabo, diziam. Mas quem conhecia o Hoodoo sabia: era o Espírito da Encruzilhada — nem diabo nem anjo, mas a força que habita o limiar entre dois mundos. Johnson morreu aos 27 anos. Suas gravações sobreviveram e mudaram a música do século XX. Alguns preços valem a pena."
+      }
+    },
+    {
+      "id": 12,
+      "semestre": 2,
+      "titulo": "Tradições Afro-Brasileiras: Candomblé, Umbanda e o Sagrado no Brasil",
+      "descricao": "As tradições de matriz africana como sistemas filosóficos e mágicos completos — orixás, encantados, a estrutura do axé e como o sagrado africano se recriou e sobreviveu no Brasil.",
+      "topicos": [
+        "Origens africanas: iorubá, fon-ewe e as tradições do Daomé",
+        "Orixás: forças da natureza, arquétipos e correspondências mágicas",
+        "Axé: a força vital que mantém o cosmos em movimento",
+        "O sistema de divindades: Exu, Ogum, Oxóssi, Xangô, Iemanjá e os demais",
+        "Umbanda: a síntese brasileira do sagrado",
+        "Caboclos, pretos-velhos, erês e as linhas da Umbanda",
+        "Sincretismo e identidade: a resistência espiritual africana no Brasil",
+        "Pontos riscados e pontos cantados: a linguagem dos orixás",
+        "Jogo de búzios: adivinhação e comunicação com o sagrado",
+        "Oferendas e despachos: a lógica das trocas com o invisível",
+        "Prática: conhecendo seu orixá através dos búzios"
+      ],
+      "conteudo": "A ser desenvolvido.",
+      "leitura_complementar": [
+        {
+          "titulo": "Candomblé: A Religião dos Orixás",
+          "autor": "Reginaldo Prandi"
+        },
+        {
+          "titulo": "O Povo do Santo",
+          "autor": "Vagner Gonçalves da Silva"
+        },
+        {
+          "titulo": "Mitologia dos Orixás",
+          "autor": "Reginaldo Prandi"
+        },
+        {
+          "titulo": "Umbanda: Uma Religião Brasileira",
+          "autor": "Camargo Procópio Ferreira de"
+        }
+      ],
+      "conto": {
+        "titulo": "Exu e a Encruzilhada",
+        "origem": "Mitologia Iorubá",
+        "texto": "No princípio, Olodumarê criou os orixás e distribuiu os domínios. A Ogum deu o ferro. A Xangô deu o trovão. A Iemanjá deu o mar. Mas a Exu deu a encruzilhada — o ponto onde todos os caminhos se encontram e se separam. 'Por que me dás o que parece menos?' perguntou Exu. Olodumarê respondeu: 'Porque toda comunicação passa pela encruzilhada. Nenhum orixá age no mundo sem passar por ti. Tu és o começo de tudo.' Por isso, antes de qualquer ritual, Exu é o primeiro a ser saudado."
+      }
+    },
+    {
+      "id": 13,
+      "semestre": 2,
+      "titulo": "Xamanismo: Viagem entre Mundos, Espíritos Aliados e Cura Espiritual",
+      "descricao": "O xamanismo como a mais antiga tecnologia espiritual da humanidade — presente em todos os continentes, com estruturas surpreendentemente similares. Viagem ao mundo inferior, animais de poder, extração de intrusões e o papel do curador ferido.",
+      "topicos": [
+        "O que é o xamanismo: definição funcional além dos estereótipos culturais",
+        "A universalidade do xamanismo: estruturas similares em culturas sem contato",
+        "A estrutura de três mundos: mundo superior, médio e inferior",
+        "O eixo do mundo (axis mundi): a árvore, o poste, a montanha sagrada",
+        "Viagem xamânica: técnicas de transe induzido por tambor",
+        "Espíritos aliados: animais de poder, guias e guardiões pessoais",
+        "O curador ferido: a iniciação xamânica pelo sofrimento e desmembramento",
+        "Extração e intrusão: diagnóstico e remoção de perturbações espirituais",
+        "Recuperação de alma (soul retrieval): a prática de buscar partes perdidas",
+        "Xamanismo e necromancia: semelhanças estruturais com o que vimos no 1º semestre",
+        "Neo-xamanismo e suas críticas: apropriação cultural e adaptação contemporânea",
+        "Prática: jornada xamânica guiada com tambor ao mundo inferior"
+      ],
+      "conteudo": "A ser desenvolvido.",
+      "leitura_complementar": [
+        {
+          "titulo": "O Xamanismo e as Técnicas Arcaicas do Êxtase",
+          "autor": "Mircea Eliade"
+        },
+        {
+          "titulo": "The Way of the Shaman",
+          "autor": "Michael Harner"
+        },
+        {
+          "titulo": "Soul Retrieval: Mending the Fragmented Self",
+          "autor": "Sandra Ingerman"
+        },
+        {
+          "titulo": "Cave and Cosmos: Shamanic Encounters with Another Reality",
+          "autor": "Michael Harner"
+        },
+        {
+          "titulo": "Singing to the Plants: A Guide to Mestizo Shamanism in the Upper Amazon",
+          "autor": "Stephan Beyer"
+        }
+      ],
+      "conto": {
+        "titulo": "A Descida de Inanna",
+        "origem": "Mitologia Suméria",
+        "texto": "Inanna, Rainha do Céu, resolveu descer ao submundo visitar sua irmã Ereshkigal. A cada uma das sete portas do mundo inferior, foi obrigada a remover um adorno de poder — até chegar despida diante da morte. Ereshkigal a olhou com o olhar da morte. Inanna morreu. Pendurada num gancho, ela ficou três dias e três noites. Então os mensageiros dos deuses desceram e a ressuscitaram. O retorno a cada porta devolveu seu poder. Inanna subiu novamente ao mundo dos vivos — transformada, como tudo que passa pelo fogo da dissolução. Essa é a estrutura da jornada xamânica: a descida voluntária ao escuro, o desmembramento, o retorno com poder que antes não existia."
+      }
+    },
+    {
+      "id": 14,
+      "semestre": 2,
+      "titulo": "Alquimia Prática: A Grande Obra no Laboratório e na Vida",
+      "descricao": "Alquimia como ciência operativa — não apenas metáfora, mas conjunto de técnicas concretas de transformação de matéria, corpo e consciência. Da Tábua Esmeraldina aos processos laboratoriais reais, com foco em aplicações práticas: elixires, tinturas, spagyria e a alquimia do cotidiano.",
+      "topicos": [
+        "A Tábua Esmeraldina: 'O que está em cima é como o que está embaixo'",
+        "Os três princípios: Enxofre, Mercúrio e Sal — alma, espírito e corpo de toda matéria",
+        "Os quatro elementos e os sete metais planetários",
+        "Operações alquímicas: calcinação, dissolução, separação, conjunção, fermentação, destilação e coagulação",
+        "Spagyria: a alquimia das plantas — tinturas, elixires e extratos espagíricos",
+        "Como preparar uma tintura espagírica básica em casa",
+        "O Sal Filosófico das plantas: extração prática das cinzas e recombinação",
+        "A Prima Materia: o que os alquimistas realmente buscavam transmutar",
+        "As quatro fases da Grande Obra: nigredo, albedo, citrinitas, rubedo — no laboratório e na psique",
+        "Alquimia e paracelsismo: a revolução médica do século XVI",
+        "Prática: preparação de uma tintura espagírica simples"
+      ],
+      "conteudo": "A ser desenvolvido.",
+      "leitura_complementar": [
+        {
+          "titulo": "The Alchemist's Handbook: Manual for Practical Laboratory Alchemy",
+          "autor": "Frater Albertus"
+        },
+        {
+          "titulo": "Spagyrics: The Alchemical Preparation of Medicinal Essences, Tinctures and Elixirs",
+          "autor": "Manfred Junius"
+        },
+        {
+          "titulo": "A Tábua de Esmeralda",
+          "autor": "Julius Ruska (ed.)"
+        },
+        {
+          "titulo": "Alquimia: A Tradição Oculta no Ocidente",
+          "autor": "Stanislas Klossowski de Rola"
+        },
+        {
+          "titulo": "The Forge and the Crucible",
+          "autor": "Mircea Eliade"
+        }
+      ],
+      "conto": {
+        "titulo": "O Corvo, o Cisne e a Fênix",
+        "origem": "Tradição Alquímica Medieval",
+        "texto": "Os alquimistas medievais descreveram a Grande Obra usando três pássaros. O Corvo (nigredo): o momento em que a matéria prima apodrece, escurece, se dissolve no ácido. É o início de tudo — e o mais difícil, porque parece destruição total. O Cisne (albedo): a matéria purificada, branca como neve, lavada de tudo que era impuro. É a clareza que vem depois do colapso. E a Fênix (rubedo): o ser completo que emerge — vermelho-ouro, incandescente, irredutível. Os alquimistas que entenderam isso sabiam que estavam descrevendo dois processos ao mesmo tempo: o que acontecia no frasco e o que acontecia dentro deles. Eram a mesma coisa."
+      }
+    },
+    {
+      "id": 15,
+      "semestre": 2,
+      "titulo": "Magia Caótica e Sistemas Personalizados: Criando seu Próprio Caminho",
+      "descricao": "A Magia do Caos como meta-sistema que usa qualquer crença como ferramenta. Como construir um sistema mágico pessoal coerente a partir de todos os elementos estudados ao longo do curso.",
+      "topicos": [
+        "O que é Magia do Caos: Peter Carroll e a tradição IOT",
+        "Paradigmas mágicos: a crença como ferramenta, não como dogma",
+        "Gnose: estados alterados como motor da magia caótica",
+        "Sincretismo consciente vs. sincretismo inconsciente",
+        "Como mapear seu sistema de crenças mágicas atual",
+        "Construindo correspondências próprias: quando quebrar as regras estabelecidas",
+        "Sigilismo avançado: glifos, servos artificiais e egregores",
+        "Magia performática: arte, teatro e música como operações mágicas",
+        "Integrando tradições: Goetia, Helenismo, Tarô, Cabala em um sistema coerente",
+        "Ética mágica revisitada: responsabilidade sem dogma",
+        "Prática: esboço do seu sistema mágico pessoal"
+      ],
+      "conteudo": "A ser desenvolvido.",
+      "leitura_complementar": [
+        {
+          "titulo": "Liber Null & Psychonaut",
+          "autor": "Peter J. Carroll"
+        },
+        {
+          "titulo": "Condensed Chaos",
+          "autor": "Phil Hine"
+        },
+        {
+          "titulo": "The Book of Results",
+          "autor": "Ray Sherwin"
+        },
+        {
+          "titulo": "Magia sem Lágrimas",
+          "autor": "Aleister Crowley"
+        }
+      ],
+      "conto": {
+        "titulo": "O Mago sem Nome",
+        "origem": "Tradição da Magia do Caos",
+        "texto": "Dizem que havia um mago que nunca pertenceu a nenhuma ordem. Quando perguntavam qual era sua tradição, ele mostrava uma caixa de ferramentas. 'Esta é a minha tradição.' Lá dentro havia um sigilo goético, um hino órfico, uma carta do Tarô, uma erva de bruxaria, um koan zen e um verso de Rimbaud. 'Qual você usa?' perguntavam. 'Depende do trabalho', ele dizia. 'Um carpinteiro não usa o mesmo instrumento para tudo.' Não era relativismo. Era precisão. Ele sabia exatamente o que cada ferramenta fazia — e por isso nunca ficava preso a uma só."
+      }
+    },
+    {
+      "id": 16,
+      "semestre": 2,
+      "titulo": "Síntese: A Tradição Viva — Integrando Dois Semestres de Estudo Oculto",
+      "descricao": "Encerramento do curso: conexões entre todos os temas estudados, ferramentas práticas para uma vida com o oculto, e o paradoxo final — o segredo que se revela sem deixar de ser oculto.",
+      "topicos": [
+        "O fio que conecta tudo: a doutrina universal revisitada",
+        "Do Tarô à Magia do Caos: um mapa de toda a tradição ocidental",
+        "Helenismo, magia africana, xamanismo: o que têm em comum?",
+        "Ferramentas para o dia a dia: o que você leva daqui",
+        "Construindo uma prática sustentável: ritual, estudo e presença",
+        "O ocultismo como espelho: o que a tradição revela sobre a natureza humana",
+        "Além do curso: próximos passos, comunidades, fontes",
+        "O paradoxo final: o véu se levanta para quem para de buscar o véu",
+        "Celebração: reconhecimento do caminho percorrido",
+        "Prática: ritual de encerramento coletivo"
+      ],
+      "conteudo": "A ser desenvolvido.",
       "leitura_complementar": [
         {
           "titulo": "Dogma e Ritual da Alta Magia (obra completa)",
           "autor": "Éliphas Lévi"
         },
         {
-          "titulo": "Curso Completo de Tarô",
-          "autor": "Nei Naiff"
+          "titulo": "A Doutrina Secreta (Vol. I)",
+          "autor": "Helena Blavatsky"
         },
         {
           "titulo": "O Ramo de Ouro",
           "autor": "James George Frazer"
         },
         {
-          "titulo": "A Doutrina Secreta (Vol. I)",
-          "autor": "Helena Blavatsky"
-        },
-        {
           "titulo": "Prometeu Ascendente",
           "autor": "Robert Anton Wilson"
-        },
-        {
-          "titulo": "O Caminho do Artista",
-          "autor": "Julia Cameron"
         }
       ],
       "conto": {

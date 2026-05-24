@@ -10,7 +10,7 @@ export default function Footer() {
         </svg>
       </div>
       <p className={styles.text}>
-        Antropologia do Ocultismo &mdash; Uma disciplina acadêmica
+        Fundamentos e Prática do Oculto &mdash; Uma disciplina acadêmica
       </p>
       <p className={styles.sub}>
         &copy; {new Date().getFullYear()} &middot; Todos os direitos reservados
