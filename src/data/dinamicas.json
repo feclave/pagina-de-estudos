@@ -244,21 +244,48 @@
     "porque_funciona": "Recria o dilema central da Goetia: o poder tem preço, e a pressa leva a pactos ruins. Os 5 segundos forçam decisões viscerais. A 'letra miúda' ensina que nem tudo é o que parece."
   },
   "9": {
-    "titulo": "Veredito Relâmpago",
-    "subtitulo": "Culpado ou inocente — justifique em uma frase.",
+    "titulo": "O Banco dos Réus",
+    "subtitulo": "O Helenismo está em julgamento. Defenda ou destrua — com argumentos reais.",
+    "descricao": "O Helenismo moderno senta no banco dos réus. A acusação: é uma religião morta, reconstruída artificialmente por entusiastas do século XIX, sem continuidade histórica viva, sem comunidade real, irrelevante para o mundo de hoje. A defesa: é uma tradição que nunca foi completamente extinta, que ressurge com força crescente, e cuja influência permeia toda a magia ocidental até os dias atuais. A turma decide — mas precisa argumentar com base em fatos, paralelos históricos e lógica. Sem achismo: cada argumento precisa se sustentar.",
     "preparacao": [
-      "O professor escolhe 3 figuras ou práticas ocultistas para serem 'julgadas' (ex: Aleister Crowley, necromancia, sociedades secretas)",
-      "Cada aluno recebe papel e caneta (ou usa o Mural da Sala)"
+      "Dividir a turma em dois grupos: ACUSAÇÃO e DEFESA — preferencialmente contra a opinião pessoal de cada aluno",
+      "Cada grupo recebe 10 minutos para preparar seus argumentos usando os pontos fornecidos pelo professor como base",
+      "O professor atua como juiz: garante o tempo de fala, pode fazer perguntas provocativas a qualquer lado e encerra rodadas"
     ],
-    "regras": [
-      "O professor apresenta brevemente a figura/prática em julgamento",
-      "Cada aluno escreve CULPADO ou INOCENTE + uma frase justificando",
-      "O professor lê algumas respostas em voz alta (sem revelar autores)",
-      "A turma vota na melhor justificativa de cada lado",
-      "Melhor justificativa de cada lado: 3 pontos",
-      "Segundo e terceiro melhores: 2 e 1 pontos respectivamente"
+    "estrutura": [
+      "Abertura (2 min por lado): cada grupo apresenta sua tese central",
+      "Rodada de argumentos (3 rodadas de 2 min por lado): os grupos se alternam apresentando um argumento por vez",
+      "Tréplica livre (5 min): debate aberto, qualquer um pode falar — o professor modera",
+      "Veredicto individual: cada aluno vota secretamente se o Helenismo é uma religião viva ou morta — independente do lado em que estava",
+      "Revelação e discussão final: o professor revela os votos e abre para reflexão sobre o que mudou ou não mudou de opinião"
     ],
-    "porque_funciona": "Obriga os alunos a articularem tudo que aprenderam no curso de forma concisa. O formato relâmpago mantém a energia alta e o anonimato encoraja honestidade."
+    "argumentos_acusacao": [
+      "Sem continuidade histórica viva: o Helenismo foi extinto pelo Édito de Tessalônica em 380 d.C., que tornou o Cristianismo religião obrigatória do Império Romano. Diferente do Judaísmo ou do Hinduísmo — que nunca pararam de ser praticados — o Helenismo foi interrompido por força de lei e espada. O que existe hoje é reconstrução a partir de textos, não transmissão viva de geração a geração",
+      "Construção romântica do século XIX: grande parte do que chamamos de 'Helenismo' foi inventado ou distorcido pelos românticos europeus que idealizaram a Grécia Antiga como berço da civilização ocidental. A Grécia real era diversa, local e contraditória — o 'Helenismo' moderno é uma versão filtrada e estetizada por pessoas que nunca viram um ritual grego de perto",
+      "Os próprios gregos rejeitam: a Igreja Ortodoxa Grega — que representa mais de 90% da população da Grécia — se opôs ativamente ao reconhecimento legal do Helenismo. O governo grego negou esse reconhecimento em 2006. Se os descendentes diretos dos antigos gregos rejeitam a tradição como ilegítima, quem tem autoridade para reivindicá-la?",
+      "Religião de biblioteca, não de comunidade: o Helenismo moderno é praticado majoritariamente por indivíduos isolados lendo textos antigos — não por comunidades com sacerdotes, templos, rituais coletivos regulares e transmissão oral. Uma religião sem comunidade viva é uma religião no papel",
+      "Sem revelação, sem dogma, sem coesão: ao contrário de religiões vivas que têm corpo doutrinário claro, o Helenismo moderno é tão diverso que praticantes discordam sobre questões fundamentais — os deuses são literais ou arquetípicos? Quais fontes são válidas? Quais práticas são autênticas? Essa fragmentação não é pluralismo saudável — é ausência de tradição real"
+    ],
+    "argumentos_defesa": [
+      "Continuidade não exige território ou estado: o Judaísmo sobreviveu séculos de diáspora, destruição do Templo em 70 d.C. e perseguição sistemática — sem território, sem centro religioso, sem Estado. Se o critério de 'religião viva' fosse continuidade ininterrupta com estrutura institucional, o Judaísmo também 'morreria' várias vezes. Uma religião vive onde há praticantes que a levam a sério — não em documentos ou permissões governamentais",
+      "A influência nunca parou: Hécate, Hermes, Dionísio e os demais deuses gregos aparecem vivos nos Papiros Mágicos Gregos do século II ao V d.C., nos grimórios medievais, no Renascimento hermético, em Éliphas Lévi, Aleister Crowley e em toda a tradição oculta ocidental que estudamos neste curso. Os deuses não desapareceram — migraram para outras formas. O Helenismo moderno é um retorno a uma fonte que nunca deixou de fluir",
+      "O Candomblé como paralelo: o Candomblé sobreviveu à escravidão, à travessia do Atlântico, à proibição legal no Brasil até 1976, à perseguição policial e religiosa sistemática. Foi preservado clandestinamente, adaptado, transformado — e hoje é reconhecido como patrimônio cultural vivo. Se o critério é 'foi interrompido à força e sobreviveu de forma fragmentada', o Candomblé também seria 'religião morta reconstruída'. O argumento da interrupção histórica não sustenta",
+      "Wicca foi criada em 1954 e ninguém a chama de morta: Gerald Gardner publicou os fundamentos da Wicca em 1954, compilando e inventando boa parte de suas práticas. Hoje a Wicca tem milhões de praticantes e reconhecimento legal em vários países. Se uma tradição criada há 70 anos é considerada religião viva, por que uma tradição com quatro mil anos de história e praticantes ativos hoje seria 'morta'? O critério de autenticidade está sendo aplicado de forma seletiva",
+      "Crescimento real e organizado: o Supremo Conselho dos Gentios Helenos existe formalmente desde 1997 na Grécia. Festivais de Prometeia, Poseidonia e Lykaion são realizados regularmente. Nos EUA, no Brasil e na Europa existem comunidades ativas com rituais coletivos, sacerdotes e calendários litúrgicos. Em 2017, o governo grego finalmente permitiu rituais em Elêusis pela primeira vez em 1.700 anos — e centenas de pessoas compareceram. Isso não é arqueologia: é religião acontecendo"
+    ],
+    "perguntas_do_juiz": [
+      "O que exatamente faz uma religião estar 'viva'? Número de fiéis? Continuidade histórica ininterrupta? Reconhecimento estatal? Comunidade organizada?",
+      "Se aplicarmos os mesmos critérios usados contra o Helenismo ao Candomblé, ao Judaísmo ou à Wicca — eles passariam no teste?",
+      "Existe diferença entre 'reconstruir' uma religião e 'reformar' uma religião? Todas as religiões vivas não são, em algum nível, reconstruções?",
+      "Os deuses precisam ser literalmente reais para que a religião seja válida — ou basta que os praticantes os tratem como reais?",
+      "Quem tem autoridade para declarar uma religião morta ou viva? Os praticantes? Os historiadores? O Estado? Os descendentes culturais?"
+    ],
+    "pontuacao": [
+      "Cada argumento considerado sólido pelo juiz (sustentado por fato ou paralelo histórico): 2 pontos para o aluno que o apresentou",
+      "Melhor réplica da tréplica livre (votação da turma): 3 pontos",
+      "Aluno que mudar de opinião no voto final E souber explicar por quê: 2 pontos extras — mudar de ideia com razão é mais raro e mais valioso do que ter razão desde o início"
+    ],
+    "porque_funciona": "O debate força os alunos a saírem da posição confortável e defenderem o oposto do que acreditam — o exercício mais difícil e mais formador do pensamento crítico. Os paralelos com Candomblé, Judaísmo e Wicca tiram o Helenismo do isolamento e colocam a questão onde ela realmente está: o que dá legitimidade a qualquer tradição espiritual? Essa pergunta não tem resposta fácil — e é exatamente por isso que o debate não termina com um veredito, mas com cada aluno tendo que se posicionar individualmente após ouvir os dois lados."
   },
   "10": {
     "titulo": "O Legado e o Pódio",
