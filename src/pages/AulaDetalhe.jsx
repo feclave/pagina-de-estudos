@@ -69,6 +69,23 @@ export default function AulaDetalhe() {
     })
   }
 
+  function renderText(text) {
+    const parts = text.split(/(\*\*[^*]+\*\*)/g)
+    return parts.map((part, i) =>
+      part.startsWith('**') && part.endsWith('**')
+        ? <strong key={i}>{part.slice(2, -2)}</strong>
+        : part
+    )
+  }
+
+  function renderBlock(block) {
+    if (block.type !== 'paragraph') return null
+    const text = block.text
+    if (text.startsWith('### ')) return <h3 className={styles.contentH3}>{renderText(text.slice(4))}</h3>
+    if (text.startsWith('## '))  return <h2 className={styles.contentH2}>{renderText(text.slice(3))}</h2>
+    return <p className={styles.paragraph}>{renderText(text)}</p>
+  }
+
   return (
     <main className={styles.main}>
       {/* Header */}
@@ -140,7 +157,7 @@ export default function AulaDetalhe() {
             {contentBlocks.map((block, i) => (
               <ScrollReveal key={i} delay={i * 0.05}>
                 {block.type === 'paragraph' ? (
-                  <p className={styles.paragraph}>{block.text}</p>
+                  renderBlock(block)
                 ) : (
                   <div className={styles.tableWrapper}>
                     <table className={styles.arcanoTable}>
