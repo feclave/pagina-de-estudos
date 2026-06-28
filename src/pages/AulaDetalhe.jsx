@@ -70,12 +70,15 @@ export default function AulaDetalhe() {
   }
 
   function renderText(text) {
-    const parts = text.split(/(\*\*[^*]+\*\*)/g)
-    return parts.map((part, i) =>
-      part.startsWith('**') && part.endsWith('**')
-        ? <strong key={i}>{part.slice(2, -2)}</strong>
-        : part
-    )
+    // Split on **bold** markers and \n line breaks
+    const parts = text.split(/(\*\*[^*]+\*\*|\n)/g)
+    return parts.map((part, i) => {
+      if (part.startsWith('**') && part.endsWith('**'))
+        return <strong key={i}>{part.slice(2, -2)}</strong>
+      if (part === '\n')
+        return <br key={i} />
+      return part
+    })
   }
 
   function renderBlock(block) {
