@@ -57,7 +57,7 @@ export default function Navbar() {
               Aulas
             </Link>
           </li>
-          <li>
+          {/* <li>
             <Link
               to="/ranking"
               className={location.pathname === '/ranking' ? styles.active : ''}
@@ -72,7 +72,7 @@ export default function Navbar() {
             >
               Chamada
             </Link>
-          </li>
+          </li> */}
           <li>
             <Link
               to="/mural"

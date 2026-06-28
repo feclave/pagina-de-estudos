@@ -9,10 +9,10 @@ import AmbientPlayer from './components/AmbientPlayer'
 const Home = lazy(() => import('./pages/Home'))
 const Aulas = lazy(() => import('./pages/Aulas'))
 const AulaDetalhe = lazy(() => import('./pages/AulaDetalhe'))
-const Chamada = lazy(() => import('./pages/Chamada'))
+// const Chamada = lazy(() => import('./pages/Chamada'))
 const Oraculo = lazy(() => import('./pages/Oraculo'))
 const Mural = lazy(() => import('./pages/Mural'))
-const Ranking = lazy(() => import('./pages/Ranking'))
+// const Ranking = lazy(() => import('./pages/Ranking'))
 
 function PageWrapper({ children }) {
   return (
@@ -65,14 +65,14 @@ function AnimatedRoutes() {
             </PageWrapper>
           }
         />
-        <Route
+        {/* <Route
           path="/chamada"
           element={
             <PageWrapper>
               <Chamada />
             </PageWrapper>
           }
-        />
+        /> */}
         <Route
           path="/oraculo"
           element={
@@ -89,14 +89,14 @@ function AnimatedRoutes() {
             </PageWrapper>
           }
         />
-        <Route
+        {/* <Route
           path="/ranking"
           element={
             <PageWrapper>
               <Ranking />
             </PageWrapper>
           }
-        />
+        /> */}
       </Routes>
     </AnimatePresence>
   )
