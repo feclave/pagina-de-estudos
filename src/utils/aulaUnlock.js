@@ -8,8 +8,8 @@ const SEMESTRE_2_UNLOCKS = {
   11: new Date('2026-06-14T00:00:00-03:00'), // aula 11 — 14/06 (semana anterior cancelada)
   12: new Date('2026-06-21T00:00:00-03:00'),
   13: new Date('2026-06-28T00:00:00-03:00'),
-  14: new Date('2026-07-05T00:00:00-03:00'),
-  15: new Date('2026-07-12T00:00:00-03:00'),
+  14: new Date('2026-07-12T00:00:00-03:00'),
+  15: new Date('2026-07-19T00:00:00-03:00'),
 }
 
 // Dynamics unlock the Monday after the class (Sunday)
