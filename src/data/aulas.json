@@ -701,97 +701,31 @@
     {
       "id": 14,
       "semestre": 2,
-      "titulo": "Alquimia Prática: A Grande Obra no Laboratório e na Vida",
-      "descricao": "Alquimia como ciência operativa — não apenas metáfora, mas conjunto de técnicas concretas de transformação de matéria, corpo e consciência. Da Tábua Esmeraldina aos processos laboratoriais reais, com foco em aplicações práticas: elixires, tinturas, spagyria e a alquimia do cotidiano.",
+      "titulo": "Aula de Dúvidas e Preparação do Trabalho Final",
+      "descricao": "O horário desta aula é reservado para tirar dúvidas, rever tópicos do semestre e organizar o material do trabalho final. Os trabalhos podem ser individuais, em duplas ou trios, e serão apresentados na última aula.",
       "topicos": [
-        "A Tábua Esmeraldina: 'O que está em cima é como o que está embaixo'",
-        "Os três princípios: Enxofre, Mercúrio e Sal — alma, espírito e corpo de toda matéria",
-        "Os quatro elementos e os sete metais planetários",
-        "Operações alquímicas: calcinação, dissolução, separação, conjunção, fermentação, destilação e coagulação",
-        "Spagyria: a alquimia das plantas — tinturas, elixires e extratos espagíricos",
-        "Como preparar uma tintura espagírica básica em casa",
-        "O Sal Filosófico das plantas: extração prática das cinzas e recombinação",
-        "A Prima Materia: o que os alquimistas realmente buscavam transmutar",
-        "As quatro fases da Grande Obra: nigredo, albedo, citrinitas, rubedo — no laboratório e na psique",
-        "Alquimia e paracelsismo: a revolução médica do século XVI",
-        "Prática: preparação de uma tintura espagírica simples"
+        "Revisão aberta dos temas do semestre",
+        "Esclarecimento de dúvidas sobre qualquer aula",
+        "Orientação para escolha e desenvolvimento do tema do trabalho final",
+        "Organização do material de apresentação"
       ],
-      "conteudo": "A ser desenvolvido.",
-      "leitura_complementar": [
-        {
-          "titulo": "The Alchemist's Handbook: Manual for Practical Laboratory Alchemy",
-          "autor": "Frater Albertus"
-        },
-        {
-          "titulo": "Spagyrics: The Alchemical Preparation of Medicinal Essences, Tinctures and Elixirs",
-          "autor": "Manfred Junius"
-        },
-        {
-          "titulo": "A Tábua de Esmeralda",
-          "autor": "Julius Ruska (ed.)"
-        },
-        {
-          "titulo": "Alquimia: A Tradição Oculta no Ocidente",
-          "autor": "Stanislas Klossowski de Rola"
-        },
-        {
-          "titulo": "The Forge and the Crucible",
-          "autor": "Mircea Eliade"
-        }
-      ],
-      "conto": {
-        "titulo": "O Corvo, o Cisne e a Fênix",
-        "origem": "Tradição Alquímica Medieval",
-        "texto": "Os alquimistas medievais descreveram a Grande Obra usando três pássaros. O Corvo (nigredo): o momento em que a matéria prima apodrece, escurece, se dissolve no ácido. É o início de tudo — e o mais difícil, porque parece destruição total. O Cisne (albedo): a matéria purificada, branca como neve, lavada de tudo que era impuro. É a clareza que vem depois do colapso. E a Fênix (rubedo): o ser completo que emerge — vermelho-ouro, incandescente, irredutível. Os alquimistas que entenderam isso sabiam que estavam descrevendo dois processos ao mesmo tempo: o que acontecia no frasco e o que acontecia dentro deles. Eram a mesma coisa."
-      }
+      "conteudo": "Esta aula não tem conteúdo expositivo — o tempo é de vocês.\n\nO trabalho final pode ser realizado individualmente, em duplas ou em trios. O tema é livre, desde que tenha relação com os estudos do semestre: qualquer assunto abordado nas aulas ou um tema de escolha própria dentro do universo do oculto.\n\nNão é necessário entregar um documento escrito. O que importa é a apresentação para a turma na próxima aula — e os trabalhos entregues serão posteriormente publicados e creditados.\n\nUse este encontro para tirar dúvidas, revisitar tópicos que ficaram em aberto e organizar o que você vai apresentar. O professor está disponível para orientar.",
+      "leitura_complementar": [],
+      "conto": null
     },
     {
       "id": 15,
       "semestre": 2,
-      "titulo": "Xamanismo: Viagem entre Mundos, Espíritos Aliados e Cura Espiritual",
-      "descricao": "O xamanismo como a mais antiga tecnologia espiritual da humanidade — presente em todos os continentes, com estruturas surpreendentemente similares. Viagem ao mundo inferior, animais de poder, extração de intrusões e o papel do curador ferido.",
+      "titulo": "Apresentação dos Trabalhos Finais",
+      "descricao": "Última aula do semestre. Os alunos apresentam seus trabalhos finais para a turma — temas livres dentro do universo do oculto, desenvolvidos individualmente ou em grupo. Os trabalhos serão publicados e creditados.",
       "topicos": [
-        "O que é o xamanismo: definição funcional além dos estereótipos culturais",
-        "A universalidade do xamanismo: estruturas similares em culturas sem contato",
-        "A estrutura de três mundos: mundo superior, médio e inferior",
-        "O eixo do mundo (axis mundi): a árvore, o poste, a montanha sagrada",
-        "Viagem xamânica: técnicas de transe induzido por tambor",
-        "Espíritos aliados: animais de poder, guias e guardiões pessoais",
-        "O curador ferido: a iniciação xamânica pelo sofrimento e desmembramento",
-        "Extração e intrusão: diagnóstico e remoção de perturbações espirituais",
-        "Recuperação de alma (soul retrieval): a prática de buscar partes perdidas",
-        "Xamanismo e necromancia: semelhanças estruturais com o que vimos no 1º semestre",
-        "Neo-xamanismo e suas críticas: apropriação cultural e adaptação contemporânea",
-        "Prática: jornada xamânica guiada com tambor ao mundo inferior"
+        "Apresentações individuais, em duplas e trios",
+        "Debate e troca entre os temas apresentados",
+        "Encerramento do semestre"
       ],
-      "conteudo": "A ser desenvolvido.",
-      "leitura_complementar": [
-        {
-          "titulo": "O Xamanismo e as Técnicas Arcaicas do Êxtase",
-          "autor": "Mircea Eliade"
-        },
-        {
-          "titulo": "The Way of the Shaman",
-          "autor": "Michael Harner"
-        },
-        {
-          "titulo": "Soul Retrieval: Mending the Fragmented Self",
-          "autor": "Sandra Ingerman"
-        },
-        {
-          "titulo": "Cave and Cosmos: Shamanic Encounters with Another Reality",
-          "autor": "Michael Harner"
-        },
-        {
-          "titulo": "Singing to the Plants: A Guide to Mestizo Shamanism in the Upper Amazon",
-          "autor": "Stephan Beyer"
-        }
-      ],
-      "conto": {
-        "titulo": "A Descida de Inanna",
-        "origem": "Mitologia Suméria",
-        "texto": "Inanna, Rainha do Céu, resolveu descer ao submundo visitar sua irmã Ereshkigal. A cada uma das sete portas do mundo inferior, foi obrigada a remover um adorno de poder — até chegar despida diante da morte. Ereshkigal a olhou com o olhar da morte. Inanna morreu. Pendurada num gancho, ela ficou três dias e três noites. Então os mensageiros dos deuses desceram e a ressuscitaram. O retorno a cada porta devolveu seu poder. Inanna subiu novamente ao mundo dos vivos — transformada, como tudo que passa pelo fogo da dissolução. Essa é a estrutura da jornada xamânica: a descida voluntária ao escuro, o desmembramento, o retorno com poder que antes não existia."
-      }
+      "conteudo": "Esta é a última aula do semestre.\n\nCada grupo apresenta seu trabalho para a turma. O tema foi escolhido livremente — pode ser um aprofundamento em qualquer assunto do curso ou um tema relacionado ao oculto que vocês quiseram explorar por conta própria.\n\nNão existe formato rígido de apresentação. O que vale é comunicar o que vocês encontraram, o que chamou atenção, e o que vocês pensam sobre o tema. Os trabalhos apresentados serão publicados no mural do curso, devidamente creditados.\n\nBoa apresentação a todos.",
+      "leitura_complementar": [],
+      "conto": null
     }
   ]
 }
