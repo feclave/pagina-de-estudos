@@ -1,11 +1,14 @@
 import { motion } from 'framer-motion'
 import styles from './SemesterDivider.module.css'
 
+const SEMESTRES = {
+  1: { label: '1º Semestre', subtitle: 'Fundamentos da Tradição Oculta Ocidental' },
+  2: { label: '2º Semestre', subtitle: 'Helenismo, Magia Ritualística e Tradições do Mundo' },
+  3: { label: '3º Semestre', subtitle: 'Novos Caminhos no Estudo do Oculto' },
+}
+
 export default function SemesterDivider({ semestre }) {
-  const label = semestre === 1 ? '1º Semestre' : '2º Semestre'
-  const subtitle = semestre === 1
-    ? 'Fundamentos da Tradição Oculta Ocidental'
-    : 'Helenismo, Magia Ritualística e Tradições do Mundo'
+  const { label, subtitle } = SEMESTRES[semestre] ?? SEMESTRES[1]
 
   return (
     <motion.div

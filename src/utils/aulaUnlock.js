@@ -12,6 +12,9 @@ const SEMESTRE_2_UNLOCKS = {
   15: new Date('2026-07-19T00:00:00-03:00'),
 }
 
+// 3º Semestre: aula 16 liberada em 30/08, demais semanalmente
+const AULA_16_UNLOCK = new Date('2026-08-30T00:00:00-03:00')
+
 // Dynamics unlock the Monday after the class (Sunday)
 const DINAMICA_1_UNLOCK = new Date('2026-03-09T00:00:00-03:00')
 
@@ -24,7 +27,8 @@ function getNowBRT() {
 function getUnlockTimestamp(aulaId) {
   if (aulaId <= 1) return null
   if (aulaId <= 8) return new Date(AULA_2_UNLOCK.getTime() + (aulaId - 2) * 7 * 24 * 3600000)
-  return SEMESTRE_2_UNLOCKS[aulaId] ?? null
+  if (aulaId <= 15) return SEMESTRE_2_UNLOCKS[aulaId] ?? null
+  return new Date(AULA_16_UNLOCK.getTime() + (aulaId - 16) * 7 * 24 * 3600000)
 }
 
 export function isAulaUnlocked(aulaId) {

@@ -26,6 +26,13 @@ const orbPositions = [
   { top: '18%', left: '50%' },
   { top: '38%', left: '55%' },
   { top: '44%', left: '70%' },
+  { top: '14%', left: '20%' },
+  { top: '30%', left: '40%' },
+  { top: '9%',  left: '65%' },
+  { top: '42%', left: '25%' },
+  { top: '24%', left: '58%' },
+  { top: '15%', left: '92%' },
+  { top: '48%', left: '48%' },
 ]
 
 export default function Aulas() {
